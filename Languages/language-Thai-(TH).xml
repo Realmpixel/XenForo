@@ -7,12 +7,12 @@
   <phrase title="admin_navigation_xengalleryPermissions" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[แกลเลอรี่ สิทธิ]]></phrase>
   <phrase title="admin_navigation_xengalleryRebuilds" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[สร้างใหม่ แกลเลอรี่ แคช]]></phrase>
   <phrase title="admin_permission_manageXenGallery" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Управление Xen Media Gallery]]></phrase>
-  <phrase title="cron_entry_xengalleryCleanUps" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Очистка для Xen Media Gallery]]></phrase>
-  <phrase title="cron_entry_xengalleryStatistics" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Обновить статистику Xen Media Gallery]]></phrase>
-  <phrase title="cron_entry_xengalleryViews" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Обновить счётчики просмотров Xen Media Gallery]]></phrase>
-  <phrase title="custom_bb_code_gallery_desc" addon_id="XenGallery" version_id="2010056" version_string="2.1.0 RC6"><![CDATA[Вставляет в сообщение медиа из галереи.]]></phrase>
-  <phrase title="custom_bb_code_gallery_title" addon_id="XenGallery" version_id="2010056" version_string="2.1.0 RC6"><![CDATA[Медиа из галереи]]></phrase>
-  <phrase title="option_group_XenGallery" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Настройки Xen Media Gallery]]></phrase>
+  <phrase title="cron_entry_xengalleryCleanUps" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[ทำความสะอาด เซน สื่อ แกลลอรี่]]></phrase>
+  <phrase title="cron_entry_xengalleryStatistics" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[ปรับปรุง สถิติ Xen คลังสื่อ]]></phrase>
+  <phrase title="cron_entry_xengalleryViews" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[โหลด เคาน์เตอร์ เพื่อแสดง Xen คลังสื่อ]]></phrase>
+  <phrase title="custom_bb_code_gallery_desc" addon_id="XenGallery" version_id="2010056" version_string="2.1.0 RC6"><![CDATA[แทรก ลงในข้อความ ของแกลเลอรี่ สื่อ]]></phrase>
+  <phrase title="custom_bb_code_gallery_title" addon_id="XenGallery" version_id="2010056" version_string="2.1.0 RC6"><![CDATA[สื่อ จากแกลเลอรี่]]></phrase>
+  <phrase title="option_group_XenGallery" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[การตั้งค่า Xen คลังสื่อ]]></phrase>
   <phrase title="option_group_XenGallery_description" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Настройки для Xen Media Gallery ]]></phrase>
   <phrase title="option_xengallerRecentMediaAlbums" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Новые медиа из альбомов]]></phrase>
   <phrase title="option_xengallerRecentMediaAlbums_explain" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Если включено, то в блоке новых/случайных медиа будут показаны медиа из альбомов пользователей (при условии, что у смотрящего есть права на просмотр этих медиа и/или альбомов).]]></phrase>
