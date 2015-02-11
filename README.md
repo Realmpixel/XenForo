@@ -10,5 +10,5 @@
 
 ตัวช่วยแปลภาษา
 https://translate.google.co.th/
-ไฟล์งาน
+    ไฟล์งาน
 https://github.com/Realmpixel/XenForo/blob/master/Languages/language-Thai-(TH).xml
