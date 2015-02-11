@@ -8,4 +8,7 @@
 ตัวอย่าง
 <![CDATA[หมวดหมู่ แกลเลอรี่]]>
 
+ตัวช่วยแปลภาษา
+https://translate.google.co.th/
+ไฟล์งาน
 https://github.com/Realmpixel/XenForo/blob/master/Languages/language-Thai-(TH).xml
