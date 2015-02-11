@@ -13,3 +13,5 @@ https://translate.google.co.th/
 
 ลิงค์ของไฟล์งาน
 https://github.com/Realmpixel/XenForo/blob/master/Languages/language-Thai-(TH).xml
+
+ขอบคุณต้นแบบภาษาด้วยนะครับที่มาเป็น Templates ให้ ><"
