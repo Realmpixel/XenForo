@@ -11,5 +11,5 @@
 ตัวช่วยแปลภาษา
 https://translate.google.co.th/
 
-ที่อยู่ไฟล์งาน
+ลิงค์ของไฟล์งาน
 https://github.com/Realmpixel/XenForo/blob/master/Languages/language-Thai-(TH).xml
