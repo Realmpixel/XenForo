@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language title="Thai (TH)" date_format="j M Y" time_format="H:i" decimal_point="," thousands_separator="." language_code="ru-RU" text_direction="LTR" addon_id="XenGallery">
   <phrase title="admin_navigation_xengallery" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Xen Media Gallery ]]></phrase>
-  <phrase title="admin_navigation_xengalleryCategories" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Категории галереи]]></phrase>
-  <phrase title="admin_navigation_xengalleryFields" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Поля галереи]]></phrase>
-  <phrase title="admin_navigation_xengalleryOptions" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Настройки галереи]]></phrase>
-  <phrase title="admin_navigation_xengalleryPermissions" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Права галереи]]></phrase>
-  <phrase title="admin_navigation_xengalleryRebuilds" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Перестраивание кэша галереи]]></phrase>
+  <phrase title="admin_navigation_xengalleryCategories" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[หมวดหมู่ แกลเลอรี่]]></phrase>
+  <phrase title="admin_navigation_xengalleryFields" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[ฟิลด์ แกลลอรี่]]></phrase>
+  <phrase title="admin_navigation_xengalleryOptions" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[การตั้งค่า แกลลอรี่]]></phrase>
+  <phrase title="admin_navigation_xengalleryPermissions" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[แกลเลอรี่ สิทธิ]]></phrase>
+  <phrase title="admin_navigation_xengalleryRebuilds" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[สร้างใหม่ แกลเลอรี่ แคช]]></phrase>
   <phrase title="admin_permission_manageXenGallery" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Управление Xen Media Gallery]]></phrase>
   <phrase title="cron_entry_xengalleryCleanUps" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Очистка для Xen Media Gallery]]></phrase>
   <phrase title="cron_entry_xengalleryStatistics" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Обновить статистику Xen Media Gallery]]></phrase>
