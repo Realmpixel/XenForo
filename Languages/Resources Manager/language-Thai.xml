@@ -15,19 +15,19 @@
   <phrase title="admin_navigation_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources]]></phrase>
   <phrase title="admin_permission_resourceManager" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[กำหนดค่า Resources]]></phrase>
   <phrase title="all_categories" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ทุกหมวดหมู่]]></phrase>
-  <phrase title="all_resources_within_category_deleted_and_child_attached_parent" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Alle ressurser i denne kategorien vil bli slettet og eventuelle underkategorier vil være knyttet til denne kategoriens overordnede.]]></phrase>
+  <phrase title="all_resources_within_category_deleted_and_child_attached_parent" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources ทั้งหมดในหมวดหมู่นี้จะถูกลบออกและประเภทย่อยใด ๆ ที่จะเชื่อมโยงไปยังเจ้าของประเภทนี้]]></phrase>
   <phrase title="all_time_rating" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Totalkarakter]]></phrase>
-  <phrase title="allow_new_resources_to_be_posted_in_this_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Tillat nye ressurser til å bli postet i denne kategorien]]></phrase>
-  <phrase title="allow_resources_to_be_created_by" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Tillat ressurser å være skapt av]]></phrase>
-  <phrase title="allowed_resource_types" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Tillatte ressurstyper]]></phrase>
-  <phrase title="alternative_support_url" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Alternativ support-URL]]></phrase>
-  <phrase title="always_moderate_resources_posted_in_this_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Alltid moderer ressurser postet i denne kategorien]]></phrase>
-  <phrase title="always_moderate_updates_in_this_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Alltid moderer oppdateringer i denne kategorien]]></phrase>
-  <phrase title="applicable_categories" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Gjeldende kategorier]]></phrase>
-  <phrase title="apply_resource_prefix" addon_id="XenResource" version_id="1010570" version_string="1.1.5"><![CDATA[Påfør ressursprefiks]]></phrase>
-  <phrase title="apply_resource_prefix_to_multiple_categories" addon_id="XenResource" version_id="1010570" version_string="1.1.5"><![CDATA[De valgte ressursene befinner seg i flere enn én kategori.<br />
+  <phrase title="allow_new_resources_to_be_posted_in_this_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[อนุญาตให้ Resources ใหม่ที่จะโพสต์ในหมวดหมู่นี้]]></phrase>
+  <phrase title="allow_resources_to_be_created_by" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[อนุญาตให้ Resources ที่จะถูกสร้างขึ้นโดย]]></phrase>
+  <phrase title="allowed_resource_types" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ที่ได้รับอนุญาตประเภท Resources]]></phrase>
+  <phrase title="alternative_support_url" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[URL สนับสนุนทางเลือก]]></phrase>
+  <phrase title="always_moderate_resources_posted_in_this_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Moderate ดูแล Resources ที่โพสต์ในหมวดหมู่นี้]]></phrase>
+  <phrase title="always_moderate_updates_in_this_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Moderate ดูแลการปรับปรุงในหมวดหมู่นี้]]></phrase>
+  <phrase title="applicable_categories" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ประเภท ปัจจุบัน]]></phrase>
+  <phrase title="apply_resource_prefix" addon_id="XenResource" version_id="1010570" version_string="1.1.5"><![CDATA[ใช้ คำนำหน้า Resources]]></phrase>
+  <phrase title="apply_resource_prefix_to_multiple_categories" addon_id="XenResource" version_id="1010570" version_string="1.1.5"><![CDATA[Resources ที่เลือก จะอยู่ใน มากกว่าหนึ่ง ประเภท<br />
 <br />
-I tilfelle noen av de valgte ressursene ikke kan påføres det ønskede prefikset, vil de forbli uendret.]]></phrase>
+ในกรณี ใด ๆ ของ Resources ที่เลือกไม่สามารถ นำไปใช้กับ คำนำหน้า ต้องการ พวกเขาจะ ยังคงไม่เปลี่ยนแปลง]]></phrase>
   <phrase title="approve_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Godkjenn ressurs]]></phrase>
   <phrase title="approve_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Godkjenn ressurser]]></phrase>
   <phrase title="ask_questions_get_support" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Still spørsmål / Få support]]></phrase>
