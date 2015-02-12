@@ -11,7 +11,9 @@
 ตัวช่วยแปลภาษา
 https://translate.google.co.th/
 
-ลิงค์ของไฟล์งาน
-https://github.com/Realmpixel/XenForo/blob/master/Languages/language-Thai-(TH).xml
+ไฟล์งานเก่าอยู่ใน
+https://github.com/Realmpixel/XenForo/tree/master/Languages/Media%20Gallery
+งานแปลไหม่
+https://github.com/Realmpixel/XenForo/tree/master/Languages/Resource%20Manager
 
 ขอบคุณต้นแบบภาษาด้วยนะครับที่มาเป็น Templates ให้ ><"
