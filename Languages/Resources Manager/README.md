@@ -8,6 +8,6 @@
 https://translate.google.co.th/
 
 ลิงค์ของไฟล์งานที่ 2
-https://github.com/Realmpixel/XenForo/tree/master/Languages/Resource%20Manager
+https://github.com/Realmpixel/XenForo/tree/master/Languages/Resources%20Manager
 
 ขอบคุณต้นแบบภาษาด้วยนะครับที่มาเป็น Templates ให้ ><"
