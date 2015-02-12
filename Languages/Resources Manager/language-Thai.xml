@@ -403,29 +403,29 @@
   <phrase title="watched_resource_category_email_html_footer_2" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Hvis du ikke lengre ønsker å motta slike eposter, kan du <a href="{disable_this_link}" style="{link_style}">slå av epost-varsler fra denne kategorien</a> eller <a href="{disable_all_link}" style="{link_style}">slå av alle epost-varsler</a>.]]></phrase>
   <phrase title="watched_resource_category_resource_email_text" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{receiver_username},
 
-{username} opprettet en ressurs i en kategori du følger ved {board_title}:
+{username} สร้าง Resources ในหมวดหมู่ที่คุณทำตาม {board_title}:
 
 	{resource}
 
 ----------------------------------------------------------------------
 
-For å se denne ressursen, klikk her:
+หากต้องการดูข้อมูลส่วนนี้คลิกที่นี่:
 {view_link}
 
 ----------------------------------------------------------------------
 
-Dette varselet ble sent til deg fordi du valgte å følge kategorien "{category}" ved {board_title} med epost-varsel ved nye ressurser.
+การแจ้งเตือนนี้ถูกส่งไปยังคุณเพราะคุณเลือกที่จะทำตามประเภท "{category}" ved {board_title} พร้อมกับแจ้งเตือนเมื่อ Resources ใหม่
 
-Hvis du vil deaktivere epost-varsler fra denne kategorien:
+ต้องการปิดใช้งานการแจ้งเตือนอีเมลจากหมวดหมู่นี้:
 {disable_this_link}
 
-Slå av alle epost-varsler:
+ปิดการแจ้งเตือนอีเมลทั้งหมด:
 {disable_all_link}
 
 {board_link}]]></phrase>
   <phrase title="watched_resource_category_resource_messagetext_email_text" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{receiver_username},
 
-{username} opprettet en ressurs i en kategori du følger ved {board_title}:
+{username} สร้าง Resources ในหมวดหมู่ที่คุณทำตาม {board_title}:
 
 	{resource}
 
@@ -433,64 +433,64 @@ Slå av alle epost-varsler:
 {message}
 ----------------------------------------------------------------------
 
-For å se denne ressursen, klikk her:
+หากต้องการดูข้อมูลส่วนนี้คลิกที่นี่:
 {view_link}
 
 ----------------------------------------------------------------------
 
-Denne meldingen ble sendt til deg fordi du har valgt å følge kategorien "{category}" ved {board_title} med epost-varsler ved nye oppdateringer.
+ข้อความนี้ถูกส่งไปยังคุณเพราะคุณได้เลือกที่จะทำตามประเภท "{category}" ved {board_title} มีการแจ้งเตือนอีเมลสำหรับการปรับปรุงใหม่
 
-Hvis du vil deaktivere eposter fra denne kategorien:
+ปิดการใช้งานอีเมลจากหมวดหมู่นี้:
 {disable_this_link}
 
-Hvis du vil deaktivere alle eposter:
+ปิดการใช้งานอีเมลทั้งหมด:
 {disable_all_link}
 
 {board_link}]]></phrase>
   <phrase title="watched_resource_category_update_email_text" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{receiver_username},
 
-{username} oppdaterte en ressurs i en kategori du følger ved {board_title}:
+{username} ปรับปรุง Resources ในหมวดหมู่ที่คุณทำตาม {board_title}:
 
 	{resource} - {update}
 
 ----------------------------------------------------------------------
 
-For å se denne ressursen, klikk her:
+หากต้องการดูข้อมูลส่วนนี้คลิกที่นี่:
 {view_link}
 
 ----------------------------------------------------------------------
 
-Dette varselet ble sendt til deg fordi du valgte å følge kategorien "{category}" ved {board_title} med epost-varsler ved ressursoppdateringer.
+การแจ้งเตือนนี้ถูกส่งไปยังคุณเพราะคุณเลือกที่จะทำตามประเภท "{category}" ved {board_title} มีการแจ้งเตือนทางอีเมล์ที่ปรับปรุง Resources
 
-Hvis du vil deaktivere eposter fra denne kategorien:
+ปิดการใช้งานอีเมลจากหมวดหมู่นี้:
 {disable_this_link}
 
-Hvis du vil deaktivere alle eposter:
+ปิดการใช้งานอีเมลทั้งหมด:
 {disable_all_link}
 
 {board_link}]]></phrase>
   <phrase title="watched_resource_category_update_messagetext_email_text" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{receiver_username},
 
-{username} oppdaterte en ressurs i en kategori du følger ved {board_title}:
+{username} ปรับปรุง Resources ในหมวดหมู่ที่คุณทำตาม {board_title}:
 
 	{resource} - {update}
 
-Dette er oppdateringen de postet:
+นี่คือการปรับปรุงที่พวกเขาโพสต์:
 ----------------------------------------------------------------------
 {message}
 ----------------------------------------------------------------------
 
-For å se denne ressurser, klikk her:
+หากต้องการดูทรัพยากรนี้คลิกที่นี่:
 {view_link}
 
 ----------------------------------------------------------------------
 
-Dette varselet ble sendt til deg når du valgte å følge kategorien "{category}" ved {board_title} med epost-varsler ved ressursoppdateringer.
+การแจ้งเตือนนี้ถูกส่งให้คุณเมื่อคุณเลือกที่จะทำตามประเภท "{category}" ved {board_title} มีการแจ้งเตือนทางอีเมล์ที่ปรับปรุง Resources
 
-Slå av varsler for denne kategorien:
+ปิดการแจ้งเตือนสำหรับหมวดหมู่นี้:
 {disable_this_link}
 
-Å slå av alle epost-varsler:
+ในการปิดการแจ้งเตือนอีเมลทั้งหมด:
 {disable_all_link}
 
 {board_link}]]></phrase>
@@ -500,48 +500,48 @@ Slå av varsler for denne kategorien:
   <phrase title="watched_resource_update_email_html_footer_2" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Hvis du ikke lenger ønsker å motta disse epostene, kan du <a href="{disable_this_link}" style="{link_style}"> deaktivere epost-varsler for denne ressursen</a> eller <a href="{disable_all_link}" style = "{link_style}"> deaktivere alle eposter</a>.]]></phrase>
   <phrase title="watched_resource_update_email_text" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{receiver_username},
 
-{username} oppdaterte en ressurs du følger ved {board_title} med en ny oppdatering:
+{username} การปรับปรุงทรัพยากรที่คุณทำตาม {board_title} ที่มีการปรับปรุงใหม่:
 
 	{resource} - {update}
 
 ----------------------------------------------------------------------
 
-For å se denne ressursen, klikk her:
+หากต้องการดูข้อมูลส่วนนี้คลิกที่นี่:
 {view_link}
 
 ----------------------------------------------------------------------
 
-Dette varselet ble sent til deg fordi du har valgt å følge ressursen "{resource}" ved {board_title} med epost-varsler ved nye oppdateringer.
+การแจ้งเตือนนี้ถูกส่งไปยังคุณเพราะคุณได้เลือกที่จะทำตาม Resources "{resource}" โดย {board_title} มีการแจ้งเตือนอีเมลสำหรับการปรับปรุงใหม่
 
-Å deaktivere epost-varsler fra denne ressursen:
+ต้องการปิดใช้งานการแจ้งเตือนอีเมลจาก Resources นี้:
 {disable_this_link}
 
-Å deaktivere alle eposter:
+ปิดการใช้งานอีเมลทั้งหมด:
 {disable_all_link}
 
 {board_link}]]></phrase>
   <phrase title="watched_resource_update_messagetext_email_text" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{receiver_username},
 
-{username} oppdaterte en ressurs som du følger ved {board_title} med en ny oppdatering:
+{username} การปรับปรุง Resources ที่ว่าคุณทำตาม {board_title} ที่มีการปรับปรุงใหม่:
 
 	{resource} - {update}
 
-Dette er oppdateringen de publiserte:
+นี่คือการปรับปรุงการเผยแพร่:
 ----------------------------------------------------------------------
 {message}
 ----------------------------------------------------------------------
 
-For å se denne ressursen, klikk her:
+หากต้องการดูข้อมูลส่วนนี้คลิกที่นี่:
 {view_link}
 
 ----------------------------------------------------------------------
 
-Dette varselet ble sendt til deg fordi du valgte å følge ressursen "{resource}" ved {board_title} med epost-varsler ved nye oppdateringer.
+การแจ้งเตือนนี้ถูกส่งไปยังคุณเพราะคุณเลือกที่จะทำตาม Resources "{resource}" โดย {board_title} มีการแจ้งเตือนอีเมลสำหรับการปรับปรุงใหม่
 
-Hvis du vil deaktivere eposter fra denne ressursen:
+ปิดการใช้งานอีเมลจาก Resources นี้:
 {disable_this_link}
 
-Hvis du vil deaktivere alle eposter:
+ปิดการใช้งานอีเมลทั้งหมด:
 {disable_all_link}
 
 {board_link}]]></phrase>
