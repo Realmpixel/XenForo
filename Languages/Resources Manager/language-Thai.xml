@@ -6,15 +6,15 @@
   <phrase title="add_resource_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ปรับปรุง Resources]]></phrase>
   <phrase title="add_version_to_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[เพิ่มเวอร์ชั่น Resources]]></phrase>
   <phrase title="additional_information_url" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[URL ข้อมูลเพิ่มเติม]]></phrase>
-  <phrase title="adds_update_to_watched_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ Oppdaterer en fulgt ressurs]]></phrase>
+  <phrase title="adds_update_to_watched_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ การปรับปรุง Resources]]></phrase>
   <phrase title="admin_navigation_resourceCategories" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[ประเภท Resources]]></phrase>
-  <phrase title="admin_navigation_resourceCategoryPerms" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ressurskategori tillatelser]]></phrase>
-  <phrase title="admin_navigation_resourceFields" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ressursfelt]]></phrase>
-  <phrase title="admin_navigation_resourceManagerOptions" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ressursinnstillinger]]></phrase>
-  <phrase title="admin_navigation_resourcePrefixes" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ressursprefikser]]></phrase>
-  <phrase title="admin_navigation_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ressurser]]></phrase>
-  <phrase title="admin_permission_resourceManager" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Konfigurer ressurser]]></phrase>
-  <phrase title="all_categories" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Alle kategorier]]></phrase>
+  <phrase title="admin_navigation_resourceCategoryPerms" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[สิทธิ์ประเภท Resources]]></phrase>
+  <phrase title="admin_navigation_resourceFields" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources ขึ้นบน]]></phrase>
+  <phrase title="admin_navigation_resourceManagerOptions" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[การตั้งค่า Resources]]></phrase>
+  <phrase title="admin_navigation_resourcePrefixes" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[คำนำหน้า Resources]]></phrase>
+  <phrase title="admin_navigation_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources]]></phrase>
+  <phrase title="admin_permission_resourceManager" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[กำหนดค่า Resources]]></phrase>
+  <phrase title="all_categories" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ทุกหมวดหมู่]]></phrase>
   <phrase title="all_resources_within_category_deleted_and_child_attached_parent" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Alle ressurser i denne kategorien vil bli slettet og eventuelle underkategorier vil være knyttet til denne kategoriens overordnede.]]></phrase>
   <phrase title="all_time_rating" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Totalkarakter]]></phrase>
   <phrase title="allow_new_resources_to_be_posted_in_this_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Tillat nye ressurser til å bli postet i denne kategorien]]></phrase>
