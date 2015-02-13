@@ -28,76 +28,76 @@
   <phrase title="apply_resource_prefix_to_multiple_categories" addon_id="XenResource" version_id="1010570" version_string="1.1.5"><![CDATA[Resources ที่เลือก จะอยู่ใน มากกว่าหนึ่ง ประเภท<br />
 <br />
 ในกรณี ใด ๆ ของ Resources ที่เลือกไม่สามารถ นำไปใช้กับ คำนำหน้า ต้องการ พวกเขาจะ ยังคงไม่เปลี่ยนแปลง]]></phrase>
-  <phrase title="approve_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Godkjenn ressurs]]></phrase>
-  <phrase title="approve_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Godkjenn ressurser]]></phrase>
-  <phrase title="ask_questions_get_support" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Still spørsmål / Få support]]></phrase>
-  <phrase title="author_details" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Forfatterdetaljer]]></phrase>
-  <phrase title="authors" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Forfattere]]></phrase>
-  <phrase title="authors_response" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Forfatters respons]]></phrase>
-  <phrase title="automatically_create_thread_in_forum" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Automatisk opprett tråd i forumet]]></phrase>
-  <phrase title="automatically_created_thread_prefix" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Automatisk opprettet trådprefiks]]></phrase>
-  <phrase title="automatically_created_thread_will_be_given_this_prefix" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Den automatisk opprettede tråden får dette prefikset.]]></phrase>
-  <phrase title="automatically_post_in_resource_thread_on_resource_deletion" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Post automatisk i ressurstråd om sletting av ressurs]]></phrase>
-  <phrase title="available_fields" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Tilgjengelige felt]]></phrase>
-  <phrase title="average_rating" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Gjennomsnittskarakter]]></phrase>
-  <phrase title="average_rating_all_versions" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Gjennomsnittlig karakter, alle versjoner]]></phrase>
-  <phrase title="below_resource_description" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Under ressursbeskrivelse]]></phrase>
-  <phrase title="body_of_this_resource_should_be_provided_in_description" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Grunnleggende info til denne ressursen bør gis i beskrivelsen.]]></phrase>
-  <phrase title="buy_now_for_x" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Kjøp nå for {cost}]]></phrase>
-  <phrase title="by_unique_downloaders" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Av unike nedlastere]]></phrase>
-  <phrase title="cannot_update_rating_once_author_response" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Du kan ikke oppdatere din karakter eller en anmeldelse når forfatteren har svart.]]></phrase>
-  <phrase title="categories" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Kategorier]]></phrase>
-  <phrase title="category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Kategori]]></phrase>
-  <phrase title="category_not_allow_new_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Denne kategorien tillater ikke nye ressurser.]]></phrase>
-  <phrase title="choose_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Velg kategori]]></phrase>
-  <phrase title="cleaning_up_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Rydder opp i ressurser]]></phrase>
-  <phrase title="close_thread" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Lukk tråden]]></phrase>
-  <phrase title="confirm_deletion_of_prefix" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Bekreft sletting av prefiks]]></phrase>
-  <phrase title="confirm_deletion_of_prefix_group" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Bekreft sletting av prefiksgruppe]]></phrase>
-  <phrase title="create_new_prefix" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Opprett nytt prefiks]]></phrase>
-  <phrase title="create_new_prefix_group" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Opprett ny prefiksgruppe]]></phrase>
-  <phrase title="current_icon" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Nåværende ikon]]></phrase>
-  <phrase title="current_version_of_resource_may_not_be_deleted" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Den nåværende versjonen av en ressurs kan ikke slettes.]]></phrase>
-  <phrase title="currently_version_x" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Nåværende versjon {version}]]></phrase>
-  <phrase title="custom_resource_fields" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Egendefinerte ressursfelt]]></phrase>
-  <phrase title="delete_current_icon" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Fjern nåværende ikon]]></phrase>
-  <phrase title="delete_prefix_group" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Slett prefiksgruppe]]></phrase>
-  <phrase title="delete_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Slett ressurs]]></phrase>
-  <phrase title="delete_resource_x_version_y" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Slett ressurs: {title} - versjon {version}]]></phrase>
-  <phrase title="delete_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Slett ressurser]]></phrase>
-  <phrase title="delete_response" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Slett respons]]></phrase>
-  <phrase title="delete_review" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Slett vurdering]]></phrase>
-  <phrase title="delete_review_from_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Slett vurdering fra ressurs]]></phrase>
-  <phrase title="delete_review_response_from_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Slett vurderingsrespons fra ressurs]]></phrase>
-  <phrase title="delete_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Slett oppdatering]]></phrase>
-  <phrase title="delete_update_from_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Slett oppdatering fra ressurs]]></phrase>
-  <phrase title="delete_version" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Slett versjon]]></phrase>
-  <phrase title="deselect_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Deselekter ressurser]]></phrase>
-  <phrase title="disable_sub_category_notifications" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Deaktiver underkategori varslinger]]></phrase>
-  <phrase title="discuss_this_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Diskuter denne ressursen]]></phrase>
-  <phrase title="discussion" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Diskusjon]]></phrase>
-  <phrase title="does_not_have_file" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Har ikke en fil]]></phrase>
-  <phrase title="download" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Last ned]]></phrase>
-  <phrase title="download_not_available" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Nedlasting ikke tilgjengelig]]></phrase>
-  <phrase title="download_now" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Last ned nå]]></phrase>
-  <phrase title="downloads" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Nedlastinger]]></phrase>
-  <phrase title="edit_prefix" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Endre prefiks]]></phrase>
-  <phrase title="edit_prefix_group" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Endre prefiksgruppe]]></phrase>
-  <phrase title="edit_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Endre ressurs]]></phrase>
-  <phrase title="edit_resource_icon" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Endre ressursikon]]></phrase>
-  <phrase title="edit_resource_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Endre ressursoppdatering]]></phrase>
-  <phrase title="enable_sub_category_notifications" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Aktiver underkategori-notiser]]></phrase>
-  <phrase title="explain_why_youre_giving_this_rating" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Forklar hvorfor du gir denne karakteren. Anmeldelser som ikke er konstruktive kan bli fjernet uten forvarsel.]]></phrase>
-  <phrase title="external_download_url" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Nedlastingsadresse]]></phrase>
-  <phrase title="external_purchase_and_download" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Eksternt kjøp og nedlasting]]></phrase>
-  <phrase title="external_purchase_url" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ekstern kjøpsadresse]]></phrase>
-  <phrase title="external_url" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ekstern URL]]></phrase>
-  <phrase title="extra_info" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ekstra informasjon]]></phrase>
-  <phrase title="extra_information_tab" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ekstra informasjonsfane]]></phrase>
-  <phrase title="feature_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Utvalgt ressurs]]></phrase>
-  <phrase title="feature_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Omtal ressurser]]></phrase>
-  <phrase title="featured" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Utvalgt]]></phrase>
-  <phrase title="featured_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Omtalte ressurser]]></phrase>
+  <phrase title="approve_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[อนุมัติ Resources]]></phrase>
+  <phrase title="approve_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[อนุมัติ Resources]]></phrase>
+  <phrase title="ask_questions_get_support" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ถามคำถาม / รับการสนับสนุน]]></phrase>
+  <phrase title="author_details" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ผู้เขียนรายละเอียด]]></phrase>
+  <phrase title="authors" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ผู้เขียน]]></phrase>
+  <phrase title="authors_response" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[การตอบสนองของผู้เขียน]]></phrase>
+  <phrase title="automatically_create_thread_in_forum" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[โดยอัตโนมัติรักษากระทู้ในฟอรั่ม]]></phrase>
+  <phrase title="automatically_created_thread_prefix" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[สร้างคำนำหน้าขึ้นอัตโนมัติ]]></phrase>
+  <phrase title="automatically_created_thread_will_be_given_this_prefix" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ด้ายสร้างขึ้นโดยอัตโนมัติได้รับคำนำหน้านี้]]></phrase>
+  <phrase title="automatically_post_in_resource_thread_on_resource_deletion" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[โพสต์กระทู้ทรัพยากรอัตโนมัติเกี่ยวกับการลบ Resources]]></phrase>
+  <phrase title="available_fields" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[เขตข้อมูลที่พร้อม]]></phrase>
+  <phrase title="average_rating" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[เกรดเฉลี่ย]]></phrase>
+  <phrase title="average_rating_all_versions" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ระดับคะแนนเฉลี่ยของทุกเวอร์ชั่น]]></phrase>
+  <phrase title="below_resource_description" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ภายใต้คำอธิบาย Resources]]></phrase>
+  <phrase title="body_of_this_resource_should_be_provided_in_description" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ข้อมูลพื้นฐานในการ Resources นี้ควรจะได้รับในคำอธิบาย]]></phrase>
+  <phrase title="buy_now_for_x" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ซื้อตอนนี้ {cost}]]></phrase>
+  <phrase title="by_unique_downloaders" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[โดย ดาวน์โหลด ไม่ซ้ำกัน]]></phrase>
+  <phrase title="cannot_update_rating_once_author_response" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[คุณไม่สามารถอัปเดตตัวละครหรือความคิดเห็นของคุณเมื่อผู้เขียนได้ตอบ]]></phrase>
+  <phrase title="categories" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[หมวดหมู่]]></phrase>
+  <phrase title="category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ประเภท]]></phrase>
+  <phrase title="category_not_allow_new_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ประเภทนี้ไม่ได้ Resources ใหม่]]></phrase>
+  <phrase title="choose_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[เลือกหมวดหมู่]]></phrase>
+  <phrase title="cleaning_up_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ทำความสะอาดขึ้น Resources]]></phrase>
+  <phrase title="close_thread" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ปิด Thread]]></phrase>
+  <phrase title="confirm_deletion_of_prefix" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ยืนยันการลบคำนำหน้า]]></phrase>
+  <phrase title="confirm_deletion_of_prefix_group" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ยืนยันการลบของกลุ่มคำนำหน้า]]></phrase>
+  <phrase title="create_new_prefix" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[สร้างคำนำหน้าใหม่]]></phrase>
+  <phrase title="create_new_prefix_group" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[สร้างกลุ่มคำนำหน้าใหม่]]></phrase>
+  <phrase title="current_icon" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ปัจจุบันของไอคอน]]></phrase>
+  <phrase title="current_version_of_resource_may_not_be_deleted" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[เวอร์ชั่นปัจจุบันของทรัพยากรที่อาจจะไม่ถูกลบ]]></phrase>
+  <phrase title="currently_version_x" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[เวอร์ชั่นปัจจุบัน {version}]]></phrase>
+  <phrase title="custom_resource_fields" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ขึ้นบน Resources ที่กำหนดเอง]]></phrase>
+  <phrase title="delete_current_icon" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ลบไอคอนปัจจุบัน]]></phrase>
+  <phrase title="delete_prefix_group" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ลบกลุ่มคำนำหน้า]]></phrase>
+  <phrase title="delete_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ลบ Resources]]></phrase>
+  <phrase title="delete_resource_x_version_y" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ลบ Resources: {title} - เวอร์ชั่น {version}]]></phrase>
+  <phrase title="delete_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ลบ Resources]]></phrase>
+  <phrase title="delete_response" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ลบการตอบสนอง]]></phrase>
+  <phrase title="delete_review" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ลบทบทวน]]></phrase>
+  <phrase title="delete_review_from_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ลบการประเมิน Resources]]></phrase>
+  <phrase title="delete_review_response_from_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ลบการตอบสนองต่อการประเมินจาก Resources]]></phrase>
+  <phrase title="delete_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ลบการปรับปรุง]]></phrase>
+  <phrase title="delete_update_from_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ลบการปรับปรุงจาก Resources]]></phrase>
+  <phrase title="delete_version" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ลบ เวอร์ชั่น]]></phrase>
+  <phrase title="deselect_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ยกเลิกการเลือกทรัพยากร]]></phrase>
+  <phrase title="disable_sub_category_notifications" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ปิดการแจ้งเตือนประเภทย่อย]]></phrase>
+  <phrase title="discuss_this_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[สอบถามเกี่ยวกับทรัพยากรนี้]]></phrase>
+  <phrase title="discussion" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[การสนทนา]]></phrase>
+  <phrase title="does_not_have_file" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ยังไม่ได้ไฟล์]]></phrase>
+  <phrase title="download" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ดาวน์โหลด]]></phrase>
+  <phrase title="download_not_available" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ดาวน์โหลดไม่สามารถใช้ได้]]></phrase>
+  <phrase title="download_now" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[ดาวน์โหลดตอนนี้]]></phrase>
+  <phrase title="downloads" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ดาวน์โหลด]]></phrase>
+  <phrase title="edit_prefix" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[คำนำหน้าเปลี่ยน]]></phrase>
+  <phrase title="edit_prefix_group" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[แก้ไขกลุ่มคำนำหน้า]]></phrase>
+  <phrase title="edit_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[เปลี่ยน Resources]]></phrase>
+  <phrase title="edit_resource_icon" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[เปลี่ยนไอคอน Resources]]></phrase>
+  <phrase title="edit_resource_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[การปรับปรุง Resources ที่เปลี่ยน]]></phrase>
+  <phrase title="enable_sub_category_notifications" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[มีการแจ้งเตือนหมวดหมู่ย่อย]]></phrase>
+  <phrase title="explain_why_youre_giving_this_rating" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[อธิบายว่าทำไมคุณทำให้ตัวละครตัวนี้ ความคิดเห็นที่ไม่สร้างสรรค์อาจถูกลบออกโดยไม่ต้องแจ้งให้ทราบล่วงหน้า]]></phrase>
+  <phrase title="external_download_url" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[ที่อยู่ดาวน์โหลด]]></phrase>
+  <phrase title="external_purchase_and_download" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ภายนอกซื้อและดาวน์โหลด]]></phrase>
+  <phrase title="external_purchase_url" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[การซื้อที่อยู่ภายนอก]]></phrase>
+  <phrase title="external_url" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[URL ภายนอก]]></phrase>
+  <phrase title="extra_info" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ข้อมูลเพิ่มเติม]]></phrase>
+  <phrase title="extra_information_tab" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[แท็บข้อมูลเสริม]]></phrase>
+  <phrase title="feature_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources ที่แนะนำ]]></phrase>
+  <phrase title="feature_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources ที่กล่าวถึง]]></phrase>
+  <phrase title="featured" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ที่เลือกไว้]]></phrase>
+  <phrase title="featured_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources ที่แนะนำ]]></phrase>
   <phrase title="fileless_resource_may_not_have_download_url_or_attached_file" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[En fileless ressurs kan ikke ha en link til nedlasting eller en vedlagt fil.]]></phrase>
   <phrase title="fileless_resources_cannot_be_downloaded" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Filløse ressurser kan ikke lastes ned.]]></phrase>
   <phrase title="find_more_info_at_x" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Finn mer informasjon hos {location}]]></phrase>
