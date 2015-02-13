@@ -98,40 +98,40 @@
   <phrase title="feature_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources ที่กล่าวถึง]]></phrase>
   <phrase title="featured" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ที่เลือกไว้]]></phrase>
   <phrase title="featured_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources ที่แนะนำ]]></phrase>
-  <phrase title="fileless_resource_may_not_have_download_url_or_attached_file" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[En fileless ressurs kan ikke ha en link til nedlasting eller en vedlagt fil.]]></phrase>
-  <phrase title="fileless_resources_cannot_be_downloaded" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Filløse ressurser kan ikke lastes ned.]]></phrase>
-  <phrase title="find_more_info_at_x" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Finn mer informasjon hos {location}]]></phrase>
-  <phrase title="first_release" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Første versjon]]></phrase>
-  <phrase title="free" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Gratis]]></phrase>
-  <phrase title="if_enter_title_message_members_watching_resource_alerted" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Hvis du skriver inn en tittel og et innlegg, vil medlemmene som følger ressursen bli varslet. Hvis du oppdaterer din ressurs med en ny versjon, er dette et godt sted å være oppmerksom på hva som er endret.]]></phrase>
-  <phrase title="if_have_icon_to_upload_resource_given_option" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Hvis du har et ikon for å laste opp for denne ressursen, vil du bli gitt en mulighet til å laste opp dette ikonet etter lagring. Dette ikonet skal ha 96x96 piksler.]]></phrase>
-  <phrase title="if_have_specific_location_where_providing_support" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Hvis du har et bestemt sted hvor du gir støtte eller svarer på spørsmål, vennligst tast inn URLen her.]]></phrase>
-  <phrase title="if_have_web_page_containing_demo_etc" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Hvis du har din egen nettside som inneholder en testversjon, utvidet beskrivelse eller støttetjenester etc. for denne ressursen, skriv inn nettadressen her.]]></phrase>
-  <phrase title="if_no_resource_types_selected_category_used_maintain_hierachy_onle" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Hvis ingen ressurstyper er valgt, vil denne kategorien kun bli brukt til å opprettholde kategorihierarkiet.]]></phrase>
-  <phrase title="if_selected_post_made_automatically_on_creators_behalf_resource_deleted" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Hvis dette er valgt, vil en melding bli automatisk postet på forfatterens vegne som forklarer at ressursen er ikke lengre er tilgjengelig.]]></phrase>
-  <phrase title="if_selected_resource_creator_not_see_review_author" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Hvis dette er valgt, vil ressursforfatteren og andre medlemmer ikke være i stand til å se hvem som skrev anmeldelsen. Ledelsen vil fortsatt være i stand til å se dette.]]></phrase>
-  <phrase title="if_selected_users_only_view_category_if_granted_permissions" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Hvis dette er valgt, vil brukerne bare kunne vise denne kategorien dersom det uttrykkelig er gitt tillatelser.]]></phrase>
-  <phrase title="if_updating_resource_version_upload_file" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Hvis du oppdaterer din ressurs med en ny versjon, last opp ny fil her. Dette er ikke obligatorisk ved å legge inn en oppdatering.]]></phrase>
-  <phrase title="if_user_does_not_have_permission_create_resources_setting_not_apply" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Hvis en bruker ikke har tillatelse til å opprette ressurser, vil denne innstillingen ikke gjelde.]]></phrase>
-  <phrase title="images" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Bilder]]></phrase>
-  <phrase title="in_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[i kategori]]></phrase>
-  <phrase title="in_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[i ressursen]]></phrase>
-  <phrase title="include_notifications_for_resources_in_sub_categories" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Inkluder varsler om ressurser i underkategorier]]></phrase>
-  <phrase title="inline_moderation_delete_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Direkte-moderering - Slett ressurser]]></phrase>
-  <phrase title="inline_moderation_move_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Direkte-moderering - Flytt ressurser]]></phrase>
-  <phrase title="inline_moderation_reassign_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Direkte-moderering - Omtildel ressurser]]></phrase>
-  <phrase title="inline_moderation_resource_prefix" addon_id="XenResource" version_id="1010570" version_string="1.1.5"><![CDATA[Inline-moderering - Påfør ressursprefiks]]></phrase>
-  <phrase title="last_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Siste oppdatering]]></phrase>
-  <phrase title="latest_updates" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Siste oppdateringer]]></phrase>
-  <phrase title="like_resource_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Lik ressursoppdatering]]></phrase>
-  <phrase title="likes_update_you_posted_to_accompany_your_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Noen liker en oppdatering du har postet til en av dine ressurser]]></phrase>
-  <phrase title="likes_your_resource_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Liker din ressursoppdatering]]></phrase>
-  <phrase title="members_who_liked_this_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Medlemmer som likte denne oppdateringen]]></phrase>
-  <phrase title="moderator_log_resource_approve" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ressurs godkjent]]></phrase>
-  <phrase title="moderator_log_resource_delete_hard" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ressurs permanent slettet]]></phrase>
-  <phrase title="moderator_log_resource_delete_soft" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ressurs fjernet fra offentlig visning (årsak: {reason})]]></phrase>
-  <phrase title="moderator_log_resource_edit" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ressurs endret ({elements})]]></phrase>
-  <phrase title="moderator_log_resource_feature" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ressurs fremhevet]]></phrase>
+  <phrase title="fileless_resource_may_not_have_download_url_or_attached_file" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources การตักไฟล์ไม่สามารถมีการเชื่อมโยงในการดาวน์โหลดหรือไฟล์ที่แนบมา]]></phrase>
+  <phrase title="fileless_resources_cannot_be_downloaded" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources fileless ไม่สามารถดาวน์โหลด]]></phrase>
+  <phrase title="find_more_info_at_x" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ฟินน์แมข้อมูลของเหลวแหลก {location}]]></phrase>
+  <phrase title="first_release" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[เวอร์ชั่นแรก]]></phrase>
+  <phrase title="free" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ฟรี]]></phrase>
+  <phrase title="if_enter_title_message_members_watching_resource_alerted" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ถ้าคุณใส่ชื่อและโพสต์สมาชิกรวม Resources ที่จะได้รับแจ้ง ถ้าคุณปรับปรุง Resources ของคุณด้วยเวอร์ชั่นใหม่นี้เป็นสถานที่ที่ดีที่จะต้องทราบว่ามีการเปลี่ยนแปลง]]></phrase>
+  <phrase title="if_have_icon_to_upload_resource_given_option" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[หากคุณมีไอคอนที่จะอัปโหลดสำหรับ Resources นี้คุณจะได้รับโอกาสที่จะอัปโหลดไอคอนหลังจากการจัดเก็บนี้ ไอคอนนี้ควรจะมี 96x96 พิกเซล]]></phrase>
+  <phrase title="if_have_specific_location_where_providing_support" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[หากคุณมีสถานที่เฉพาะที่คุณให้การสนับสนุนหรือตอบคำถามโปรดป้อน URL ที่นี่]]></phrase>
+  <phrase title="if_have_web_page_containing_demo_etc" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[หากคุณมีเว็บไซต์ของคุณเองซึ่งมีเวอร์ชั่นทดสอบคำอธิบายขยายหรือการสนับสนุนอื่น ๆ สำหรับ Resources นี้ให้ป้อน URL ที่นี่]]></phrase>
+  <phrase title="if_no_resource_types_selected_category_used_maintain_hierachy_onle" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ถ้าชนิดของ Resources ไม่ได้เลือกหมวดหมู่นี้จะถูกนำมาใช้ในการรักษาลำดับชั้นประเภท]]></phrase>
+  <phrase title="if_selected_post_made_automatically_on_creators_behalf_resource_deleted" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ถ้าเลือกข้อความจะถูกโพสต์โดยอัตโนมัติในนามของผู้เขียนอธิบาย Resources ที่ไม่สามารถใช้ได้อีก]]></phrase>
+  <phrase title="if_selected_resource_creator_not_see_review_author" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[หากมีการเลือกผู้เขียน Resources และสมาชิกคนอื่น ๆ จะไม่สามารถที่จะดูว่าใครเขียนรีวิว การบริหารจัดการจะยังคงสามารถที่จะเห็นนี้]]></phrase>
+  <phrase title="if_selected_users_only_view_category_if_granted_permissions" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ถ้าเลือกเฉพาะผู้ใช้จะเห็นแท็บนี้หากพวกเขามีสิทธิ์ได้รับอย่างชัดเจน]]></phrase>
+  <phrase title="if_updating_resource_version_upload_file" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ถ้าคุณปรับปรุง Resources ของคุณด้วยเวอร์ชั่นใหม่อัปโหลดไฟล์ใหม่ที่นี่ นี้ไม่ได้รับคำสั่งโดยการเพิ่มการปรับปรุง]]></phrase>
+  <phrase title="if_user_does_not_have_permission_create_resources_setting_not_apply" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[หากผู้ใช้ไม่ได้รับอนุญาตในการสร้าง Resources การตั้งค่านี้จะไม่ใช้]]></phrase>
+  <phrase title="images" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[รูปภาพ]]></phrase>
+  <phrase title="in_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ประเภท]]></phrase>
+  <phrase title="in_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ในการพัฒนา Resources]]></phrase>
+  <phrase title="include_notifications_for_resources_in_sub_categories" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[รวมถึงการแจ้งเตือนเกี่ยวกับ Resources ในหมวดหมู่ย่อย]]></phrase>
+  <phrase title="inline_moderation_delete_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ตรงการดูแล - ลบ Resources]]></phrase>
+  <phrase title="inline_moderation_move_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ตรงปริมาณที่พอเหมาะ - Resources ย้าย]]></phrase>
+  <phrase title="inline_moderation_reassign_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[การดูแลแบบอินไลน์ reassigns Resources]]></phrase>
+  <phrase title="inline_moderation_resource_prefix" addon_id="XenResource" version_id="1010570" version_string="1.1.5"><![CDATA[คำนำหน้า Resources การดูแลแบบอินไลน์]]></phrase>
+  <phrase title="last_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ปรับปรุงล่าสุด]]></phrase>
+  <phrase title="latest_updates" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[อัพเดตล่าสุด]]></phrase>
+  <phrase title="like_resource_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[การปรับปรุง Resources ที่เท่าเทียมกัน]]></phrase>
+  <phrase title="likes_update_you_posted_to_accompany_your_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[บางคนชอบการปรับปรุงที่คุณได้โพสต์หนึ่งใน Resources ของคุณ]]></phrase>
+  <phrase title="likes_your_resource_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[เช่นเดียวกับการปรับปรุง Resources ของคุณ]]></phrase>
+  <phrase title="members_who_liked_this_update" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[สมาชิกที่ชอบการปรับปรุงนี้]]></phrase>
+  <phrase title="moderator_log_resource_approve" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources ได้รับการอนุมัติ]]></phrase>
+  <phrase title="moderator_log_resource_delete_hard" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources ลบอย่างถาวร]]></phrase>
+  <phrase title="moderator_log_resource_delete_soft" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources ลบออกจากมุมมองของผู้อื่น (เหตุผล: {reason})]]></phrase>
+  <phrase title="moderator_log_resource_edit" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources การเปลี่ยนแปลง ({elements})]]></phrase>
+  <phrase title="moderator_log_resource_feature" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[เน้น Resources]]></phrase>
   <phrase title="moderator_log_resource_prefix" addon_id="XenResource" version_id="1010570" version_string="1.1.5"><![CDATA[Ressursprefiks endret fra '{old}']]></phrase>
   <phrase title="moderator_log_resource_rating_delete_hard" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Ressursvurdering permanent slettet]]></phrase>
   <phrase title="moderator_log_resource_rating_delete_response" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Svar til ressursvurdering slettet]]></phrase>
