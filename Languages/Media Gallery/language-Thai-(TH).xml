@@ -1115,9 +1115,9 @@
 {disable_all_link}
 
 {board_link}]]></phrase>
-  <phrase title="xengallery_watched_album_comment_html" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[{receiver}, {replier} добавил(а) новый комментарий к отслеживаемому Вами альбому на сайте {board}.]]></phrase>
-  <phrase title="xengallery_watched_album_email_html_footer_1" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Это сообщение было отправлено Вам с сайта "{board}", так как Вы подписаны на получение уведомлений с помощью электронной почты, если будут новые {content} в альбоме "{album}".]]></phrase>
-  <phrase title="xengallery_watched_album_email_html_footer_2" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Если Вы больше не хотите получать эти уведомления, Вы можете <a href="{disable_this_link}" style="{link_style}">отключить их для этого альбома</a> или <a href="{disable_all_link}" style="{link_style}">отключить все уведомления</a>.]]></phrase>
+  <phrase title="xengallery_watched_album_comment_html" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[{receiver}, {replier} ที่เพิ่ม(а) ความคิดเห็นใหม่ติดตามอัลบั้มของคุณในเว็บไซต์ {board}.]]></phrase>
+  <phrase title="xengallery_watched_album_email_html_footer_1" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[ข้อความนี้ถูกส่งไปยังคุณจากเว็บไซต์ "{board}", เนื่องจากคุณสมัครรับการแจ้งเตือนผ่านทาง e-mail ถ้ามีใหม่ {content} ในอัลบั้ม "{album}".]]></phrase>
+  <phrase title="xengallery_watched_album_email_html_footer_2" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[ถ้าคุณไม่ต้องการที่จะรับการแจ้งเตือนเหล่านี้คุณสามารถ <a href="{disable_this_link}" style="{link_style}">ปิดการใช้งานพวกเขาสำหรับอัลบั้มนี้</a> หรือ <a href="{disable_all_link}" style="{link_style}">ปิดการใช้งานการแจ้งเตือนทั้งหมด</a>.]]></phrase>
   <phrase title="xengallery_watched_album_media_insert" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[{receiver_username},
 
 ผู้ใช้งาน {username} ที่เพิ่ม(а) สื่อองค์ประกอบใหม่ {mediatitle} ติดตามในอัลบั้มของคุณในเว็บไซต์ "{board_title}".
@@ -1140,11 +1140,11 @@
 {disable_all_link}
 
 {board_link}]]></phrase>
-  <phrase title="xengallery_watched_album_media_insert_html" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[{receiver}, {replier} добавил(а) медиа в отслеживаемый Вами альбом на сайте {board}.]]></phrase>
-  <phrase title="xengallery_watched_albums" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Отслеживаемые альбомы]]></phrase>
-  <phrase title="xengallery_watched_categories" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Отслеживаемые категории]]></phrase>
-  <phrase title="xengallery_watched_category_email_html_footer_1" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Это сообщение было отправлено Вам с сайта "{board}", так как Вы подписаны на получение уведомлений с помощью электронной почты, если будут новые {content} в категории "{category}".]]></phrase>
-  <phrase title="xengallery_watched_category_email_html_footer_2" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Если Вы больше не хотите получать эти уведомления, Вы можете <a href="{disable_this_link}" style="{link_style}">отключить их для этой категории</a> или <a href="{disable_all_link}" style="{link_style}">отключить все уведомления</a>.]]></phrase>
+  <phrase title="xengallery_watched_album_media_insert_html" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[{receiver}, {replier} ที่เพิ่ม(а) สื่อการติดตามในอัลบั้มของคุณในเว็บไซต์ {board}.]]></phrase>
+  <phrase title="xengallery_watched_albums" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[จับตาดูอัลบั้ม]]></phrase>
+  <phrase title="xengallery_watched_categories" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[ประเภทการตรวจสอบ]]></phrase>
+  <phrase title="xengallery_watched_category_email_html_footer_1" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[ข้อความนี้ถูกส่งไปยังคุณจากเว็บไซต์ "{board}", เนื่องจากคุณสมัครรับการแจ้งเตือนผ่านทาง e-mail ถ้ามีใหม่ {content} ประเภท "{category}".]]></phrase>
+  <phrase title="xengallery_watched_category_email_html_footer_2" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[ถ้าคุณไม่ต้องการที่จะรับการแจ้งเตือนเหล่านี้คุณสามารถ <a href="{disable_this_link}" style="{link_style}">ปิดการใช้งานพวกเขาสำหรับหมวดหมู่นี้</a> или <a href="{disable_all_link}" style="{link_style}">ปิดการใช้งานการแจ้งเตือนทั้งหมด</a>.]]></phrase>
   <phrase title="xengallery_watched_category_media_insert" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[{receiver_username},
 
 ผู้ใช้งาน {username} ที่เพิ่ม(а) สื่อองค์ประกอบใหม่ {mediatitle} ในหมวดหมู่การติดตามโดยคุณบนเว็บไซต์ "{board_title}".
@@ -1167,9 +1167,9 @@
 {disable_all_link}
 
 {board_link}]]></phrase>
-  <phrase title="xengallery_watched_category_media_insert_html" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[{receiver}, {replier} добавил(а) медиа в отслеживаемую Вами категорию на сайте {board}.]]></phrase>
-  <phrase title="xengallery_watched_content" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Отслеживаемое содержимое]]></phrase>
-  <phrase title="xengallery_watched_media" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Отслеживаемые медиа]]></phrase>
+  <phrase title="xengallery_watched_category_media_insert_html" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[{receiver}, {replier} ที่เพิ่ม(а) สื่อในหมวดหมู่การติดตามโดยคุณบนเว็บไซต์ {board}.]]></phrase>
+  <phrase title="xengallery_watched_content" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[เนื้อหาที่ติดตาม]]></phrase>
+  <phrase title="xengallery_watched_media" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[สื่อการตรวจสอบ]]></phrase>
   <phrase title="xengallery_watched_media_comment" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[{receiver_username},
 
 ผู้ใช้งาน {username} ที่เพิ่ม(а) ความคิดเห็นใหม่การติดตามไปยังสื่อออนไลน์ของคุณ "{board_title}".
@@ -1195,113 +1195,113 @@
 {disable_all_link}
 
 {board_link}]]></phrase>
-  <phrase title="xengallery_watched_media_comment_html" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[{receiver}, {replier} добавил(а) новый комментарий к отслеживаемому Вами медиа на сайте {board}.]]></phrase>
-  <phrase title="xengallery_watched_media_email_html_footer_1" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Это сообщение было отправлено Вам с сайта "{board}", так как Вы подписаны на получение уведомлений с помощью электронной почты, если будут новые {content} для медиа "{media}".]]></phrase>
-  <phrase title="xengallery_watched_media_email_html_footer_2" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Если Вы больше не хотите получать эти уведомления, Вы можете <a href="{disable_this_link}" style="{link_style}">отключить их для этого медиа</a> или <a href="{disable_all_link}" style="{link_style}">отключить все уведомления</a>.]]></phrase>
-  <phrase title="xengallery_watermark_add_successfully" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Водяной знак успешно добавлен.]]></phrase>
-  <phrase title="xengallery_watermark_could_not_be_added" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Водяной знак не может быть добавлен. Скорее всего, изображение либо слишком маленькое, либо у него некорректный формат (к примеру, GIF).]]></phrase>
-  <phrase title="xengallery_watermark_could_not_be_removed" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Водяной знак успешно убран.]]></phrase>
-  <phrase title="xengallery_watermark_disabled" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Отключено]]></phrase>
-  <phrase title="xengallery_watermark_enabled" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Включено]]></phrase>
-  <phrase title="xengallery_watermark_no_permission" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[У Вас недостаточно прав для добавление водяного знака к этому медиа.]]></phrase>
-  <phrase title="xengallery_watermark_options" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Водяные знаки]]></phrase>
-  <phrase title="xengallery_watermark_remove_no_permission" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[У Вас недостаточно прав для снятия водяного знака с этого медиа.]]></phrase>
-  <phrase title="xengallery_watermark_removed_successfully" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Водяной знак успешно убран.]]></phrase>
-  <phrase title="xengallery_which_media_do_you_want_to_mark_as_viewed" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Какие медиа Вы хотите отметить как просмотренные?]]></phrase>
-  <phrase title="xengallery_write_a_comment" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Напишите комментарий]]></phrase>
-  <phrase title="xengallery_x_added_a_video_y_to_album_z" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} добавил(а) видео {media} в отслеживаемый Вами альбом {album}.]]></phrase>
-  <phrase title="xengallery_x_added_a_video_y_to_category_z" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} добавил(а) видео {media} в отслеживаемую Вами категорию {category}.]]></phrase>
-  <phrase title="xengallery_x_added_y_items_to_album_z" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} добавил(а) {count} элементов в альбом {album}.  Возможно там имеются и другие элементы.]]></phrase>
-  <phrase title="xengallery_x_b" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{number}Б]]></phrase>
-  <phrase title="xengallery_x_by_y_posted_z" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{title} от {user} опубликован {date}]]></phrase>
-  <phrase title="xengallery_x_commented_on_album_y" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} прокомментировал(а) альбом {album}]]></phrase>
-  <phrase title="xengallery_x_commented_on_media_y" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} прокомментировал(а) медиа {media}]]></phrase>
-  <phrase title="xengallery_x_commented_on_your_album_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} добавил(а) комментарий к Вашему альбому {item}]]></phrase>
-  <phrase title="xengallery_x_commented_on_your_media_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} добавил(а) комментарий к Вашему медиа {item}]]></phrase>
-  <phrase title="xengallery_x_comments" addon_id="XenGallery" version_id="118" version_string="1.1.8"><![CDATA[{count} комментариев]]></phrase>
-  <phrase title="xengallery_x_k" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{number}К]]></phrase>
-  <phrase title="xengallery_x_liked_your_album_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} нравится Ваш альбом {album}]]></phrase>
-  <phrase title="xengallery_x_liked_your_comment_on_album_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} нравится Ваш комментарий к альбому {album}]]></phrase>
-  <phrase title="xengallery_x_liked_your_comment_on_media_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} нравится Ваш комментарий к медиа {media}]]></phrase>
-  <phrase title="xengallery_x_liked_your_y_in_album_z" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} нравится Ваше медиа {item} в альбоме {album}]]></phrase>
-  <phrase title="xengallery_x_liked_your_y_in_category_z" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} нравится Ваше медиа {item} в категории {category}]]></phrase>
+  <phrase title="xengallery_watched_media_comment_html" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[{receiver}, {replier} ที่เพิ่ม(а) ความคิดเห็นใหม่การติดตามไปยังสื่อออนไลน์ของคุณ {board}.]]></phrase>
+  <phrase title="xengallery_watched_media_email_html_footer_1" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[ข้อความนี้ถูกส่งไปยังคุณจากเว็บไซต์ "{board}", เนื่องจากคุณสมัครรับการแจ้งเตือนผ่านทาง e-mail ถ้ามีใหม่ {content} สำหรับสื่อ "{media}".]]></phrase>
+  <phrase title="xengallery_watched_media_email_html_footer_2" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[ถ้าคุณไม่ต้องการที่จะรับการแจ้งเตือนเหล่านี้คุณสามารถ <a href="{disable_this_link}" style="{link_style}">ปิดการใช้งานพวกเขาสำหรับสื่อนี้</a> или <a href="{disable_all_link}" style="{link_style}">ปิดการใช้งานการแจ้งเตือนทั้งหมด</a>.]]></phrase>
+  <phrase title="xengallery_watermark_add_successfully" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[เพิ่มลายน้ำที่ประสบความสำเร็จ]]></phrase>
+  <phrase title="xengallery_watermark_could_not_be_added" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[ลายน้ำไม่สามารถเพิ่ม แต่ภาพที่เป็นทั้งขนาดเล็กเกินไปหรือมีรูปแบบที่ไม่ถูกต้อง (เช่น GIF)]]></phrase>
+  <phrase title="xengallery_watermark_could_not_be_removed" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[ลายน้ำลบออกที่ประสบความสำเร็จ]]></phrase>
+  <phrase title="xengallery_watermark_disabled" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[ไม่ใช้งาน]]></phrase>
+  <phrase title="xengallery_watermark_enabled" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[ที่รวมอยู่]]></phrase>
+  <phrase title="xengallery_watermark_no_permission" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณยังไม่ได้รับอนุญาตให้เพิ่มลายน้ำเพื่อสื่อนี้]]></phrase>
+  <phrase title="xengallery_watermark_options" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[ลายน้ำ]]></phrase>
+  <phrase title="xengallery_watermark_remove_no_permission" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณยังไม่ได้รับอนุญาตให้ลบลายน้ำจากสื่อนี้]]></phrase>
+  <phrase title="xengallery_watermark_removed_successfully" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[ลายน้ำลบออกที่ประสบความสำเร็จ]]></phrase>
+  <phrase title="xengallery_which_media_do_you_want_to_mark_as_viewed" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[สื่อสิ่งที่คุณต้องการทำเครื่องหมายมองว่าเป็น?]]></phrase>
+  <phrase title="xengallery_write_a_comment" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[เขียนความคิดเห็น]]></phrase>
+  <phrase title="xengallery_x_added_a_video_y_to_album_z" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} ที่เพิ่ม(а) วีดีโอ {media}ติดตามในอัลบั้มของคุณ {album}.]]></phrase>
+  <phrase title="xengallery_x_added_a_video_y_to_category_z" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} ที่เพิ่ม(а) วีดีโอ {media} ในการติดตามหมวดหมู่ของคุณ {category}.]]></phrase>
+  <phrase title="xengallery_x_added_y_items_to_album_z" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} ที่เพิ่ม(а) {count} องค์ประกอบในอัลบั้ม {album}.  บางทีอาจจะมีองค์ประกอบอื่น ๆ ที่มี]]></phrase>
+  <phrase title="xengallery_x_b" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{number}B]]></phrase>
+  <phrase title="xengallery_x_by_y_posted_z" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{title} จาก {user} การตีพิมพ์ {date}]]></phrase>
+  <phrase title="xengallery_x_commented_on_album_y" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} แสดงความคิดเห็น(а) อัลบั้ม {album}]]></phrase>
+  <phrase title="xengallery_x_commented_on_media_y" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} แสดงความคิดเห็น(а) สื่อ {media}]]></phrase>
+  <phrase title="xengallery_x_commented_on_your_album_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} ที่เพิ่ม(а) แสดงความคิดเห็นในอัลบั้มของคุณ {item}]]></phrase>
+  <phrase title="xengallery_x_commented_on_your_media_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} ที่เพิ่ม(а) แสดงความคิดเห็นในสื่อของคุณ {item}]]></phrase>
+  <phrase title="xengallery_x_comments" addon_id="XenGallery" version_id="118" version_string="1.1.8"><![CDATA[{count} คิดเห็น]]></phrase>
+  <phrase title="xengallery_x_k" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{number}K]]></phrase>
+  <phrase title="xengallery_x_liked_your_album_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} เพลิดเพลินกับเสียงเพลงของคุณ {album}]]></phrase>
+  <phrase title="xengallery_x_liked_your_comment_on_album_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} เช่นเดียวกับความคิดเห็นของคุณลงในอัลบั้ม {album}]]></phrase>
+  <phrase title="xengallery_x_liked_your_comment_on_media_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} เช่นเดียวกับความคิดเห็นของคุณสื่อ {media}]]></phrase>
+  <phrase title="xengallery_x_liked_your_y_in_album_z" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} เช่นเดียวกับสื่อของคุณ {item} ในอัลบั้ม {album}]]></phrase>
+  <phrase title="xengallery_x_liked_your_y_in_category_z" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} เช่นเดียวกับสื่อของคุณ {item} ประเภท {category}]]></phrase>
   <phrase title="xengallery_x_m" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{number}М]]></phrase>
-  <phrase title="xengallery_x_media_items" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Элементов медиа: {count}]]></phrase>
-  <phrase title="xengallery_x_of_y_used" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{used} из {total}]]></phrase>
-  <phrase title="xengallery_x_rated_your_album_y_z" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} оценил(а) Ваш альбом {item} на {rating} баллов из 5.]]></phrase>
-  <phrase title="xengallery_x_rated_your_media_y_z" addon_id="XenGallery" version_id="113" version_string="1.1.3"><![CDATA[{user} оценил(а) Ваше медиа {item} на {rating} из 5.]]></phrase>
-  <phrase title="xengallery_x_shared_their_album_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} поделился(лась) своим альбомом {album} с Вами.]]></phrase>
-  <phrase title="xengallery_x_shared_their_album_y_add" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} поделился(лась) с Вами своим альбомом {album} и Вам позволено добавлять в него медиа.]]></phrase>
-  <phrase title="xengallery_x_tagged_you_in_comment_on_album_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{name} упомянул(а) Вас в комментарии к альбому {title}]]></phrase>
-  <phrase title="xengallery_x_tagged_you_in_comment_on_media_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{name} упомянул(а) Вас в комментарии к медиа {title}]]></phrase>
-  <phrase title="xengallery_x_tagged_you_in_the_media_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} отметил(а) Вас на медиа {item}]]></phrase>
-  <phrase title="xengallery_x_tagged_you_in_the_media_y_approve" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} отметил(а) Вас на медиа {item}. Сейчас отметка находиться в ожидании Вашего одобрения. Вы можете {approve} или {reject} её.]]></phrase>
-  <phrase title="xengallery_x_uploaded_an_image_y_to_album_z" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} добавил(а) изображение {media} в отслеживаемый Вами альбом {album}.]]></phrase>
-  <phrase title="xengallery_x_uploaded_an_image_y_to_category_z" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} добавил(а) изображение {media} в отслеживаемую Вами категорию {category}.]]></phrase>
-  <phrase title="xengallery_x_votes_plural" addon_id="XenGallery" version_id="16" version_string="0.1.2"><![CDATA[<a href="{link}" class="OverlayTrigger">{count} голосов</a>]]></phrase>
-  <phrase title="xengallery_xenmedio_import_log_table" addon_id="XenGallery" version_id="2010370" version_string="2.1.3"><![CDATA[Таблица журнала импорта XenMedio]]></phrase>
-  <phrase title="xengallery_xs_albums" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Альбомы от {username}]]></phrase>
-  <phrase title="xengallery_xs_media" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Медиа от {username}]]></phrase>
-  <phrase title="xengallery_you_are_not_currently_watching_any_albums" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Вы пока не следите ни за одним альбомом.]]></phrase>
-  <phrase title="xengallery_you_are_not_currently_watching_any_media" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Вы пока не следите ни за одним элементом медиа.]]></phrase>
-  <phrase title="xengallery_you_can_only_crop_your_own_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы можете обрезать только свои медиа.]]></phrase>
-  <phrase title="xengallery_you_can_only_delete_tags_of_yourself" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы можете удалить только отметки себя с этого медиа.]]></phrase>
-  <phrase title="xengallery_you_can_only_tag_your_own_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы можете делать метки только на своих медиа.]]></phrase>
-  <phrase title="xengallery_you_can_only_tag_yourself" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вам позволено отметить только себя на этом медиа.]]></phrase>
-  <phrase title="xengallery_you_can_upload_a_maximum_of_x_items_at_a_time" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы не можете добавить больше, чем {total} элементов за раз. Сохраните текущие элементы медиа и добавьте ещё позже.]]></phrase>
-  <phrase title="xengallery_you_cannot_add_media_to_this_album" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы не можете добавлять медиа в этот альбом.]]></phrase>
-  <phrase title="xengallery_you_cannot_add_media_to_this_category" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы не можете добавлять медиа в эту категорию.]]></phrase>
-  <phrase title="xengallery_you_cannot_approve_this_tag_request" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[У Вас недостаточно прав для одобрения этой отметки.]]></phrase>
-  <phrase title="xengallery_you_cannot_crop_a_video" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы не можете обрезать видео.]]></phrase>
-  <phrase title="xengallery_you_cannot_download_embedded_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы не можете скачать встроенное медиа.]]></phrase>
-  <phrase title="xengallery_you_cannot_flip_a_video" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы не можете отражать видео.]]></phrase>
-  <phrase title="xengallery_you_cannot_like_your_own_album" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы не можете использовать кнопку "Мне нравится" для своего альбома. Это жульничество!]]></phrase>
-  <phrase title="xengallery_you_cannot_like_your_own_comment" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Вы не можете использовать кнопку "Мне нравится" для своего комментария. Это жульничество!]]></phrase>
-  <phrase title="xengallery_you_cannot_like_your_own_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы не можете использовать кнопку "Мне нравится" для своего медиа. Это жульничество!]]></phrase>
-  <phrase title="xengallery_you_cannot_put_images_in_this_category" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы не можете добавлять изображения в эту категорию.]]></phrase>
-  <phrase title="xengallery_you_cannot_put_videos_in_this_category" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы не можете добавлять видео в эту категорию.]]></phrase>
-  <phrase title="xengallery_you_cannot_rotate_a_video" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы не можете поворачивать видео.]]></phrase>
-  <phrase title="xengallery_you_cannot_rotate_this_image" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы не можете поворачивать это изображение.]]></phrase>
-  <phrase title="xengallery_you_cannot_tag_a_video" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы не можете отмечать на видео.]]></phrase>
-  <phrase title="xengallery_you_have_already_rated_this_album" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы уже оценили этот альбом.]]></phrase>
-  <phrase title="xengallery_you_have_already_rated_this_media" addon_id="XenGallery" version_id="2010570" version_string="2.1.5"><![CDATA[Вы уже оценили это медиа. Эта оценка обновит уже существующие оценку.]]></phrase>
-  <phrase title="xengallery_you_have_already_tagged_this_user_in_this_media" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы уже отметили выбранного пользователя на этом медиа.]]></phrase>
-  <phrase title="xengallery_you_have_exceeded_your_allowed_storage_quota" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы уже достигли Вашего лимита на дисковое пространство в {quota}. Вы пытаетесь загрузить файл размером в {filesize}. Вами занято {storage}.]]></phrase>
-  <phrase title="xengallery_you_have_not_added_any_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы пока не добавили ни одного медиа.]]></phrase>
-  <phrase title="xengallery_you_have_not_added_any_media_yet" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы пока не добавили ни одного медиа.]]></phrase>
-  <phrase title="xengallery_you_have_not_added_any_media_yet_add_media" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы пока не добавили ни одного медиа. <a href="{link}">Добавить медиа</a>.]]></phrase>
-  <phrase title="xengallery_you_have_not_created_albums" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы пока не создали ни одного альбома.]]></phrase>
-  <phrase title="xengallery_you_must_leave_a_comment" addon_id="XenGallery" version_id="2010570" version_string="2.1.5"><![CDATA[Вы должны оставить комментарий]]></phrase>
-  <phrase title="xengallery_you_must_select_at_least_one_image_as_a_thumbnail" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы должны выбрать хотя бы одно изображение, чтобы использовать как миниатюру.]]></phrase>
-  <phrase title="xengallery_you_not_watching_any_categories" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Вы пока не следите ни за одной категорией.]]></phrase>
-  <phrase title="xengallery_you_sure_mark_all_media_viewed" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы действительно хотите отметить все медиа просмотренными?]]></phrase>
-  <phrase title="xengallery_you_sure_want_to_update_notification_settings_for_all_albums" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Вы уверены, что хотите обновить настройки уведомлений по электронной почте для всех отслеживаемых альбомов?]]></phrase>
-  <phrase title="xengallery_you_sure_want_to_update_notification_settings_for_all_categories" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Вы уверены, что хотите обновить настройки уведомлений по электронной почте для всех отслеживаемых категорий?]]></phrase>
-  <phrase title="xengallery_you_sure_want_update_notification_settings_for_all_media" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Вы уверены, что хотите обновить настройки уведомлений по электронной почте для всех отслеживаемых элементов медиа?]]></phrase>
-  <phrase title="xengallery_you_sure_want_update_notification_settings_for_one_album" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы уверены, что хотите обновить настройки уведомлений по электронной почте для этого альбома?]]></phrase>
-  <phrase title="xengallery_you_sure_want_update_notification_settings_for_one_category" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы уверены, что хотите обновить настройки уведомлений по электронной почте для этой категории?]]></phrase>
-  <phrase title="xengallery_you_sure_want_update_notification_settings_for_one_media_item" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы уверены, что хотите обновить настройки уведомлений по электронной почте для этого элемента медиа?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_add_watermark" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы уверены, что хотите добавить водяной знак к этому медиа?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_delete_x_album" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Вы уверены, что хотите удалить {count} альбом?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_delete_x_albums" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Вы уверены, что хотите удалить {count} альбомов?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_delete_x_comments" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Вы уверены, что хотите удалить {count} комментариев?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_delete_x_media_items" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы уверены, что хотите удалить {count} элементов медиа?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_like_this_album" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы уверены, что Вам нравится этот альбом?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_like_this_comment" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы уверены, что Вам нравится этот комментарий?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_like_this_media_item" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы уверены, что Вам нравится этот элемент медиа?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_remove_watermark" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы уверены, что хотите убрать водяной знак с этого медиа?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_remove_watermark_from_x_media_items" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы уверены, что хотите убрать водяной знак с {count} элементов медиа?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_unlike_this_album" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы уверены, что Вам больше не нравится этот альбом?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_unlike_this_comment" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы уверены, что Вам больше не нравится этот комментарий?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_unlike_this_media_item" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[Вы уверены, что Вам больше не нравится этот элемент медиа?]]></phrase>
-  <phrase title="xengallery_you_sure_you_want_to_watermark_x_media_items" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Вы уверены, что хотите добавить водяной знак на {count} элементов медиа?]]></phrase>
-  <phrase title="xengallery_your_albums" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Ваши альбомы]]></phrase>
-  <phrase title="xengallery_your_content" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Ваше содержимое]]></phrase>
-  <phrase title="xengallery_your_image_upload_quota" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Ваша квота на загрузку изображений]]></phrase>
-  <phrase title="xengallery_your_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Ваши медиа]]></phrase>
-  <phrase title="xengallery_your_media_has_been_moved_successfully" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Ваше медиа было успешно перемещено]]></phrase>
-  <phrase title="xengallery_your_statistics" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Ваша статистика]]></phrase>
-  <phrase title="xengallery_your_usage" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[Вами использовано]]></phrase>
-  <phrase title="xengallery_your_video_upload_quota" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Ваша квота на загрузку видео]]></phrase>
-  <phrase title="xengallery_zero_value_equals_unlimited" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[0(ноль), т.е. без ограничений.]]></phrase>
+  <phrase title="xengallery_x_media_items" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[องค์ประกอบสื่อ: {count}]]></phrase>
+  <phrase title="xengallery_x_of_y_used" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{used} จาก {total}]]></phrase>
+  <phrase title="xengallery_x_rated_your_album_y_z" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} ซึ่งได้ประเมิน(а) อัลบั้มของคุณ {item} ไปยัง {rating} จาก 5]]></phrase>
+  <phrase title="xengallery_x_rated_your_media_y_z" addon_id="XenGallery" version_id="113" version_string="1.1.3"><![CDATA[{user} ซึ่งได้ประเมิน(а) สื่อของคุณ {item} ไปยัง {rating} 5]]></phrase>
+  <phrase title="xengallery_x_shared_their_album_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} ที่ใช้ร่วมกัน (ลา) อัลบั้มของเขา {album} กับคุณ]]></phrase>
+  <phrase title="xengallery_x_shared_their_album_y_add" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} ที่ใช้ร่วมกัน (ลา) กับคุณอัลบั้มของฉัน {album} และจะช่วยให้คุณสามารถเพิ่มสื่อไป]]></phrase>
+  <phrase title="xengallery_x_tagged_you_in_comment_on_album_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{name} กล่าวถึง(а) คุณในความคิดเห็นในอัลบั้ม {title}]]></phrase>
+  <phrase title="xengallery_x_tagged_you_in_comment_on_media_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{name} กล่าวถึง(а) คุณในความคิดเห็นกับสื่อ {title}]]></phrase>
+  <phrase title="xengallery_x_tagged_you_in_the_media_y" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[{user} เด่น(а) คุณอยู่ในสื่อ {item}]]></phrase>
+  <phrase title="xengallery_x_tagged_you_in_the_media_y_approve" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} เด่น(а) คุณอยู่ในสื่อ {item}. ตอนนี้เครื่องหมายกำลังรอการอนุมัติของคุณ คุณสามารถ {approve} หรือ {reject} เธอ]]></phrase>
+  <phrase title="xengallery_x_uploaded_an_image_y_to_album_z" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} ที่เพิ่ม(а) ภาพ {media} ติดตามในอัลบั้มของคุณ {album}.]]></phrase>
+  <phrase title="xengallery_x_uploaded_an_image_y_to_category_z" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[{user} ที่เพิ่ม(а) ภาพ {media} ในการติดตามหมวดหมู่ของคุณ {category}.]]></phrase>
+  <phrase title="xengallery_x_votes_plural" addon_id="XenGallery" version_id="16" version_string="0.1.2"><![CDATA[<a href="{link}" class="OverlayTrigger">{count} โหวต</a>]]></phrase>
+  <phrase title="xengallery_xenmedio_import_log_table" addon_id="XenGallery" version_id="2010370" version_string="2.1.3"><![CDATA[เข้าสู่ระบบการนำเข้าตาราง XenMedio]]></phrase>
+  <phrase title="xengallery_xs_albums" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[อัลบัมจาก {username}]]></phrase>
+  <phrase title="xengallery_xs_media" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[สื่อจาก {username}]]></phrase>
+  <phrase title="xengallery_you_are_not_currently_watching_any_albums" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[คุณยังไม่ได้ทำตามอัลบั้มเดี่ยว]]></phrase>
+  <phrase title="xengallery_you_are_not_currently_watching_any_media" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[คุณไม่แน่ใจว่าของคนใดคนหนึ่งองค์ประกอบของสื่อ]]></phrase>
+  <phrase title="xengallery_you_can_only_crop_your_own_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณสามารถตัดสื่อของคุณเท่านั้น]]></phrase>
+  <phrase title="xengallery_you_can_only_delete_tags_of_yourself" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณสามารถลบเครื่องหมายตัวเองกับสื่อนี้]]></phrase>
+  <phrase title="xengallery_you_can_only_tag_your_own_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณสามารถทำให้ฉลากเฉพาะในสื่อของพวกเขา]]></phrase>
+  <phrase title="xengallery_you_can_only_tag_yourself" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณได้รับอนุญาตให้ทำเครื่องหมายเพียงตัวเองในสื่อนี้]]></phrase>
+  <phrase title="xengallery_you_can_upload_a_maximum_of_x_items_at_a_time" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณไม่สามารถเพิ่มมากกว่า {total} องค์ประกอบในเวลา ประหยัดองค์ประกอบสื่อในปัจจุบันและเพิ่มมากขึ้นในภายหลัง]]></phrase>
+  <phrase title="xengallery_you_cannot_add_media_to_this_album" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณไม่สามารถเพิ่มสื่อไปยังโฟลเดอร์นี้]]></phrase>
+  <phrase title="xengallery_you_cannot_add_media_to_this_category" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณไม่สามารถเพิ่มสื่อในหมวดหมู่นี้]]></phrase>
+  <phrase title="xengallery_you_cannot_approve_this_tag_request" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณยังไม่ได้รับอนุญาตให้อนุมัติเครื่องหมายนี้]]></phrase>
+  <phrase title="xengallery_you_cannot_crop_a_video" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณไม่สามารถตัดหนัง]]></phrase>
+  <phrase title="xengallery_you_cannot_download_embedded_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณไม่สามารถดาวน์โหลดสื่อฝังตัว]]></phrase>
+  <phrase title="xengallery_you_cannot_flip_a_video" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณอาจไม่ได้สะท้อนให้เห็นถึงวิดีโอ]]></phrase>
+  <phrase title="xengallery_you_cannot_like_your_own_album" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณไม่สามารถใช้ "Like" สำหรับอัลบั้มของเขา มันหลอกลวง!]]></phrase>
+  <phrase title="xengallery_you_cannot_like_your_own_comment" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[คุณไม่สามารถใช้ "Like" สำหรับความคิดเห็นของคุณ มันหลอกลวง!]]></phrase>
+  <phrase title="xengallery_you_cannot_like_your_own_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณไม่สามารถใช้ "Like" สำหรับสื่อของคุณ มันหลอกลวง!]]></phrase>
+  <phrase title="xengallery_you_cannot_put_images_in_this_category" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณไม่สามารถเพิ่มรูปภาพในหมวดหมู่นี้]]></phrase>
+  <phrase title="xengallery_you_cannot_put_videos_in_this_category" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณไม่สามารถเพิ่มวิดีโอไปยังหมวดหมู่นี้]]></phrase>
+  <phrase title="xengallery_you_cannot_rotate_a_video" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณไม่สามารถหมุนวิดีโอ]]></phrase>
+  <phrase title="xengallery_you_cannot_rotate_this_image" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณไม่สามารถหมุนภาพ]]></phrase>
+  <phrase title="xengallery_you_cannot_tag_a_video" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณไม่สามารถทำเครื่องหมายในวิดีโอ]]></phrase>
+  <phrase title="xengallery_you_have_already_rated_this_album" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณได้รับการจัดอันดับอยู่แล้วอัลบั้มนี้]]></phrase>
+  <phrase title="xengallery_you_have_already_rated_this_media" addon_id="XenGallery" version_id="2010570" version_string="2.1.5"><![CDATA[คุณได้รับการจัดอันดับอยู่แล้วสื่อนี้ การประเมินนี้จะปรับปรุงการประเมินที่มีอยู่]]></phrase>
+  <phrase title="xengallery_you_have_already_tagged_this_user_in_this_media" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[ท่านได้กล่าวแล้วผู้ใช้ที่เลือกในสื่อนี้]]></phrase>
+  <phrase title="xengallery_you_have_exceeded_your_allowed_storage_quota" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณถึงขีด จำกัด ของคุณสำหรับพื้นที่ดิสก์ {quota}. คุณพยายามที่จะดาวน์โหลดขนาดไฟล์ {filesize}. คุณไม่ว่าง {storage}.]]></phrase>
+  <phrase title="xengallery_you_have_not_added_any_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณยังไม่ได้เพิ่มสื่อใด ๆ]]></phrase>
+  <phrase title="xengallery_you_have_not_added_any_media_yet" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณยังไม่ได้เพิ่มสื่อใด ๆ]]></phrase>
+  <phrase title="xengallery_you_have_not_added_any_media_yet_add_media" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณยังไม่ได้เพิ่มสื่อใด ๆ <a href="{link}">เพิ่มสื่อ</a>.]]></phrase>
+  <phrase title="xengallery_you_have_not_created_albums" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณยังไม่ได้สร้างอัลบั้มใด ๆ]]></phrase>
+  <phrase title="xengallery_you_must_leave_a_comment" addon_id="XenGallery" version_id="2010570" version_string="2.1.5"><![CDATA[คุณจะต้องแสดงความคิดเห็น]]></phrase>
+  <phrase title="xengallery_you_must_select_at_least_one_image_as_a_thumbnail" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณต้องเลือกอย่างน้อยหนึ่งภาพที่จะใช้เป็นภาพ]]></phrase>
+  <phrase title="xengallery_you_not_watching_any_categories" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[คุณยังไม่ได้ทำตามประเภทเดียวกัน]]></phrase>
+  <phrase title="xengallery_you_sure_mark_all_media_viewed" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณแน่ใจหรือว่าต้องการทำเครื่องหมายสื่อทั้งหมดที่ได้รับการตรวจสอบ?]]></phrase>
+  <phrase title="xengallery_you_sure_want_to_update_notification_settings_for_all_albums" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[คุณแน่ใจหรือว่าต้องการที่จะปรับปรุงการแจ้งเตือนทาง e-mail ของคุณสำหรับอัลบั้มตรวจสอบทั้งหมดหรือไม่]]></phrase>
+  <phrase title="xengallery_you_sure_want_to_update_notification_settings_for_all_categories" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[คุณแน่ใจว่าคุณต้องการที่จะปรับปรุงการแจ้งเตือนอีเมลของคุณสำหรับทุกประเภทการติดตาม?]]></phrase>
+  <phrase title="xengallery_you_sure_want_update_notification_settings_for_all_media" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[คุณแน่ใจหรือว่าต้องการปรับปรุงการแจ้งเตือนทาง e-mail ของคุณสำหรับองค์ประกอบสื่อตรวจสอบทั้งหมดหรือไม่]]></phrase>
+  <phrase title="xengallery_you_sure_want_update_notification_settings_for_one_album" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณแน่ใจว่าคุณต้องการที่จะปรับปรุงการแจ้งเตือนอีเมลของคุณสำหรับอัลบั้มนี้?]]></phrase>
+  <phrase title="xengallery_you_sure_want_update_notification_settings_for_one_category" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณแน่ใจว่าคุณต้องการที่จะปรับปรุงการแจ้งเตือนอีเมลของคุณสำหรับประเภทนี้หรือไม่?]]></phrase>
+  <phrase title="xengallery_you_sure_want_update_notification_settings_for_one_media_item" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณแน่ใจหรือว่าต้องการปรับปรุงการแจ้งเตือนอีเมลของคุณสำหรับรายการสื่อนี้หรือไม่?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_add_watermark" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณแน่ใจว่าคุณต้องการที่จะเพิ่มลายน้ำให้สื่อนี้ได้หรือไม่]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_delete_x_album" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[คุณแน่ใจหรือว่าต้องการลบ {count} อัลบั้ม?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_delete_x_albums" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[คุณแน่ใจหรือว่าต้องการลบ {count} อัลบั้ม?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_delete_x_comments" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[คุณแน่ใจหรือว่าต้องการลบ {count} แสดงความเห็น?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_delete_x_media_items" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณแน่ใจหรือว่าต้องการลบ {count} องค์ประกอบของสื่อ?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_like_this_album" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณแน่ใจหรือว่าคุณจะชอบอัลบั้มนี้?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_like_this_comment" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณแน่ใจหรือว่าคุณต้องการที่จะแสดงความคิดเห็น?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_like_this_media_item" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณแน่ใจหรือว่าคุณต้องการสื่อรายการนี้หรือไม่?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_remove_watermark" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณแน่ใจว่าคุณต้องการที่จะลบลายน้ำจากสื่อนี้หรือไม่?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_remove_watermark_from_x_media_items" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณแน่ใจหรือว่าต้องการลบลายน้ำ {count} องค์ประกอบของสื่อ?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_unlike_this_album" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณแน่ใจหรือว่าคุณไม่ชอบอัลบั้มนี้?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_unlike_this_comment" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณแน่ใจหรือว่าคุณไม่ชอบความคิดเห็นนี้?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_unlike_this_media_item" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[คุณแน่ใจหรือว่าคุณไม่ชอบรายการนี้สื่อ?]]></phrase>
+  <phrase title="xengallery_you_sure_you_want_to_watermark_x_media_items" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[คุณแน่ใจหรือว่าต้องการที่จะเพิ่มลายน้ำให้ {count} องค์ประกอบของสื่อ?]]></phrase>
+  <phrase title="xengallery_your_albums" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[อัลบั้มของคุณ]]></phrase>
+  <phrase title="xengallery_your_content" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[เนื้อหาของคุณ]]></phrase>
+  <phrase title="xengallery_your_image_upload_quota" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[โควต้าของคุณที่จะอัปโหลดภาพ]]></phrase>
+  <phrase title="xengallery_your_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[สื่อของคุณ]]></phrase>
+  <phrase title="xengallery_your_media_has_been_moved_successfully" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[สื่อของคุณได้รับการย้ายไปประสบความสำเร็จ]]></phrase>
+  <phrase title="xengallery_your_statistics" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[สถิติของคุณ]]></phrase>
+  <phrase title="xengallery_your_usage" addon_id="XenGallery" version_id="2010053" version_string="2.1.0 RC3"><![CDATA[คุณใช้]]></phrase>
+  <phrase title="xengallery_your_video_upload_quota" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[โควต้าของคุณที่จะดาวน์โหลดวิดีโอ]]></phrase>
+  <phrase title="xengallery_zero_value_equals_unlimited" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[0 (ศูนย์) คือ โดยไม่มีข้อ จำกัด]]></phrase>
 </language>
