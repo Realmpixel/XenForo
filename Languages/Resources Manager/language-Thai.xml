@@ -494,10 +494,10 @@
 {disable_all_link}
 
 {board_link}]]></phrase>
-  <phrase title="watched_resource_create_email_header_html" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{receiver}, {creator} opprettet en ny ressurs ved {board}.]]></phrase>
-  <phrase title="watched_resource_update_email_header_html" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{receiver}, {creator} oppdaterte en ressurs du følger ved {board}.]]></phrase>
-  <phrase title="watched_resource_update_email_html_footer_1" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Dette varselet ble sendt til deg fordi du valgte å følge ressursen {ressurs} ved {bord} med epost-varsling av oppdateringer.]]></phrase>
-  <phrase title="watched_resource_update_email_html_footer_2" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Hvis du ikke lenger ønsker å motta disse epostene, kan du <a href="{disable_this_link}" style="{link_style}"> deaktivere epost-varsler for denne ressursen</a> eller <a href="{disable_all_link}" style = "{link_style}"> deaktivere alle eposter</a>.]]></phrase>
+  <phrase title="watched_resource_create_email_header_html" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{receiver}, {creator} สร้าง Resources ใหม่โดย {board}.]]></phrase>
+  <phrase title="watched_resource_update_email_header_html" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{receiver}, {creator} การปรับปรุง Resources ที่คุณทำตาม {board}.]]></phrase>
+  <phrase title="watched_resource_update_email_html_footer_1" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[การแจ้งเตือนนี้ถูกส่งไปยังคุณเพราะคุณเลือกที่จะทำตาม Resources {ressurs} โดย {bord} ที่มีการแจ้งเตือนอีเมลการปรับปรุง]]></phrase>
+  <phrase title="watched_resource_update_email_html_footer_2" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[ถ้าคุณไม่ต้องการรับอีเมลเหล่านี้โปรด <a href="{disable_this_link}" style="{link_style}"> ปิดการแจ้งอีเมลสำหรับ Resources นี้</a> eller <a href="{disable_all_link}" style = "{link_style}"> ปิดการใช้งานอีเมลทั้งหมด</a>.]]></phrase>
   <phrase title="watched_resource_update_email_text" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{receiver_username},
 
 {username} การปรับปรุงทรัพยากรที่คุณทำตาม {board_title} ที่มีการปรับปรุงใหม่:
@@ -545,50 +545,50 @@
 {disable_all_link}
 
 {board_link}]]></phrase>
-  <phrase title="watched_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Fulgte ressurser]]></phrase>
-  <phrase title="whenever_resource_category_created_thread_posted" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Hvis valgt, når en ressurs i denne kategorien er opprettet, vil en tråd bli postet i dette forumet.]]></phrase>
-  <phrase title="x_created_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} opprettet ressursen {title}.]]></phrase>
-  <phrase title="x_liked_your_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} likte din ressurs {title}.]]></phrase>
-  <phrase title="x_liked_your_update_for_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} likte din oppdatering av ressursen {title}.]]></phrase>
-  <phrase title="x_liked_ys_resource_z" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} likte <a {posterParams}>{poster}s ressurs</a> {title}.]]></phrase>
-  <phrase title="x_liked_ys_update_for_resource_z" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} likte <a {posterParams}>{poster}s oppdatering</a> for ressursen {title}.]]></phrase>
-  <phrase title="x_posted_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} publiserte ressursen {title}.]]></phrase>
-  <phrase title="x_replied_review_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} svarte på din vurdering av ressursen {title}.]]></phrase>
-  <phrase title="x_reviewed_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} vurderte ressursen {title}.]]></phrase>
-  <phrase title="x_updated_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} oppdaterte ressursen {title}.]]></phrase>
-  <phrase title="you_are_watching_this_resource_use_button_to_stop" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du følger denne ressursen. Bruk knappen nedenfor hvis du ønsker å slutte og følge denne ressursen.]]></phrase>
-  <phrase title="you_do_not_have_permission_view_full_resource_content" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du har ikke tillatelse til å vise hele innholdet av denne ressursen.]]></phrase>
-  <phrase title="you_have_already_rated_this_version_re_rating_remove" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du har allerede stemt på denne versjonen. Re-vurdering vil fjerne eksisterende karakter eller anmeldelse.]]></phrase>
-  <phrase title="you_may_not_delete_the_current_version_of_a_resource" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du kan ikke slette gjeldende versjon av en ressurs.]]></phrase>
-  <phrase title="you_may_not_delete_the_resource_description" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du kan ikke slette ressursbeskrivelsen.]]></phrase>
-  <phrase title="you_may_not_delete_this_resource_update" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du kan ikke slette denne ressursoppdateringen.]]></phrase>
-  <phrase title="you_may_not_delete_this_version_of_this_resource" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du kan ikke slette denne versjonen av denne ressursen.]]></phrase>
-  <phrase title="you_may_not_edit_this_resource_update" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du kan ikke redigere denne ressursoppdateringen.]]></phrase>
-  <phrase title="you_may_not_edit_this_version_of_this_resource" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du kan ikke redigere denne ressursversjonen.]]></phrase>
-  <phrase title="you_may_only_enter_external_url_or_upload_file" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du kan bare legge inn en ekstern nettadresse eller laste opp en fil.]]></phrase>
-  <phrase title="you_may_only_rate_after_downloading" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du kan kun gi karakter etter nedlasting.]]></phrase>
-  <phrase title="you_may_only_reassign_resource_to_user_with_permission_to_view" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du kan bare overføre en ressurs til en bruker med tillatelse til å se ressurser.]]></phrase>
-  <phrase title="you_must_provide_either_update_or_new_version" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du må oppgi enten en oppdatering eller en ny versjon.]]></phrase>
-  <phrase title="you_must_select_category" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du må velge en kategori.]]></phrase>
-  <phrase title="you_must_upload_file_to_create_version_or_resource" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du må laste opp en fil for å lage en versjon eller ressurs.]]></phrase>
-  <phrase title="you_not_currently_watching_any_resources" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du følger ikke noen ressurser.]]></phrase>
-  <phrase title="you_not_watching_any_categories" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du følger ingen kategorier.]]></phrase>
-  <phrase title="you_only_rate_resource_version_downloaded" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Du kan kun gi karakter til en ressursversjon du har lastet ned.]]></phrase>
-  <phrase title="you_sure_want_delete_resource" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Er du sikker på at du vil slette denne ressursen?]]></phrase>
-  <phrase title="you_sure_you_want_to_delete_this_review_from_x" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Er du sikker på at du vil slette denne vurderingen fra {title}?]]></phrase>
-  <phrase title="you_sure_you_want_to_delete_this_review_response_from_x" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Er du sikker på at du vil slette denne vurderings-tilbakemeldingen fra {title}?]]></phrase>
-  <phrase title="you_sure_you_want_to_delete_this_update_from_x" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Er du sikker på at du vil slette denne oppdateringen fra {title}?]]></phrase>
-  <phrase title="you_sure_you_want_to_delete_version_x_of_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Er du sikker på at du vil slette versjon {version} av {title}?]]></phrase>
-  <phrase title="you_sure_you_want_to_delete_x_resources" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Er du sikker på at du vil slette {count} ressurs(er)?]]></phrase>
-  <phrase title="you_sure_you_want_to_like_this_resource_update" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Er du sikker på at du liker denne ressursoppdateringen?]]></phrase>
-  <phrase title="you_sure_you_want_to_move_x_resources" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Er du sikker på at du vil flytte {count} ressurs(er)?]]></phrase>
-  <phrase title="you_sure_you_want_to_prefix_x_resources" addon_id="XenResource" version_id="1010570" version_string="1.1.5"><![CDATA[Er du sikker på at du vil påføre prefikset til {count} ressurser?]]></phrase>
-  <phrase title="you_sure_you_want_to_reassign_x_resources" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Er du sikker på at du vil omfordele {count} ressurs(er)?]]></phrase>
-  <phrase title="you_sure_you_want_to_unlike_this_resource_update" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Er du sikker på at du ikke liker denne ressursoppdateringen?]]></phrase>
-  <phrase title="you_sure_you_want_to_update_notification_settings_for_all_resource_cats" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Er du sikker på at du ønsker å oppdatere epost-varslingsinnstillingene for alle ressurskategorier?]]></phrase>
-  <phrase title="you_sure_you_want_to_update_notification_settings_for_all_resources" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[Er du sikker på at du ønsker å oppdatere epost-varslingsinnstillingene for alle ressurser?]]></phrase>
-  <phrase title="you_sure_you_want_to_update_notification_settings_for_one_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Er du sikker på at du vil oppdatere dine epost-varslingsinnstillinger for en ressurs?]]></phrase>
-  <phrase title="you_sure_you_want_to_update_notification_settings_for_one_resource_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Er du sikker på at du ønsker å oppdatere dine epostvarslinger for en ressurskategori?]]></phrase>
-  <phrase title="your_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Dine ressurser]]></phrase>
-  <phrase title="your_review_must_be_at_least_x_characters" addon_id="XenResource" version_id="1010470" version_string="1.1.4"><![CDATA[Vurderingen din må ha minst {min} tegn.]]></phrase>
+  <phrase title="watched_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ตาม Resources]]></phrase>
+  <phrase title="whenever_resource_category_created_thread_posted" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[ถ้าเลือกเมื่อ Resources ในหมวดหมู่นี้จะถูกสร้างขึ้นด้ายจะถูกโพสต์ในฟอรั่มนี้]]></phrase>
+  <phrase title="x_created_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} Resources ที่สร้างขึ้น {title}.]]></phrase>
+  <phrase title="x_liked_your_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} ชอบ Resources ของคุณ {title}.]]></phrase>
+  <phrase title="x_liked_your_update_for_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} ชอบการอัพเดตของ Resources {title}.]]></phrase>
+  <phrase title="x_liked_ys_resource_z" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} ชอบ <a {posterParams}>{poster}s Resources</a> {title}.]]></phrase>
+  <phrase title="x_liked_ys_update_for_resource_z" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} ชอบ <a {posterParams}>{poster}ปรับปรุง</a> Resources {title}.]]></phrase>
+  <phrase title="x_posted_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} Resources การตีพิมพ์{title}.]]></phrase>
+  <phrase title="x_replied_review_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} ตอบการประเมินของคุณของ Resources {title}.]]></phrase>
+  <phrase title="x_reviewed_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} Resources การจัดอันดับ {title}.]]></phrase>
+  <phrase title="x_updated_resource_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[{name} Resources การปรับปรุง {title}.]]></phrase>
+  <phrase title="you_are_watching_this_resource_use_button_to_stop" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณทำตาม Resources นี้ ใช้ปุ่มด้านล่างนี้ถ้าคุณต้องการที่จะเลิกและติดตามข้อมูลส่วนนี้]]></phrase>
+  <phrase title="you_do_not_have_permission_view_full_resource_content" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณไม่ได้รับอนุญาตให้ดูเนื้อหาทั้งหมดของ Resources นี้]]></phrase>
+  <phrase title="you_have_already_rated_this_version_re_rating_remove" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณทำการให้คะแนนแล้วสำหรับเวอร์ชั่นนี้ เรื่องการประเมินจะลบตัวอักษรที่มีอยู่หรือการตรวจสอบ]]></phrase>
+  <phrase title="you_may_not_delete_the_current_version_of_a_resource" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณไม่สามารถลบรุ่นปัจจุบันของ Resources]]></phrase>
+  <phrase title="you_may_not_delete_the_resource_description" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณไม่สามารถลบคำอธิบาย Resources]]></phrase>
+  <phrase title="you_may_not_delete_this_resource_update" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณไม่สามารถลบการปรับปรุง Resources นี้]]></phrase>
+  <phrase title="you_may_not_delete_this_version_of_this_resource" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณไม่สามารถลบเวอร์ชั่นของ Resources นี้]]></phrase>
+  <phrase title="you_may_not_edit_this_resource_update" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณไม่สามารถแก้ไขปรับปรุง Resources นี้]]></phrase>
+  <phrase title="you_may_not_edit_this_version_of_this_resource" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณไม่สามารถแก้ไขเวอร์ชั่น Resources นี้]]></phrase>
+  <phrase title="you_may_only_enter_external_url_or_upload_file" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณสามารถเพิ่ม URL ภายนอกหรืออัปโหลดไฟล์]]></phrase>
+  <phrase title="you_may_only_rate_after_downloading" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณสามารถให้คะแนนหลังจากการดาวน์โหลด]]></phrase>
+  <phrase title="you_may_only_reassign_resource_to_user_with_permission_to_view" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณสามารถถ่ายโอน Resources ให้กับผู้ใช้ที่ได้รับอนุญาตเพื่อดู Resources]]></phrase>
+  <phrase title="you_must_provide_either_update_or_new_version" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณต้องระบุทั้งการปรับปรุงหรือเวอร์ชั่นใหม่]]></phrase>
+  <phrase title="you_must_select_category" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณต้องเลือกประเภท]]></phrase>
+  <phrase title="you_must_upload_file_to_create_version_or_resource" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณต้องอัปโหลดไฟล์ที่จะสร้างเวอร์ชั่นหรือ Resources]]></phrase>
+  <phrase title="you_not_currently_watching_any_resources" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณไม่ปฏิบัติตาม Resources ใด ๆ]]></phrase>
+  <phrase title="you_not_watching_any_categories" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณทำตามหมวด]]></phrase>
+  <phrase title="you_only_rate_resource_version_downloaded" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณสามารถคะแนนเวอร์ชั่น Resources ที่คุณได้ดาวน์โหลด]]></phrase>
+  <phrase title="you_sure_want_delete_resource" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณแน่ใจว่าคุณต้องการลบ Resources นี้?]]></phrase>
+  <phrase title="you_sure_you_want_to_delete_this_review_from_x" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณแน่ใจหรือว่าต้องการลบจากการตรวจสอบนี้ {title}?]]></phrase>
+  <phrase title="you_sure_you_want_to_delete_this_review_response_from_x" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณแน่ใจหรือว่าต้องการลบการประเมินข้อเสนอแนะจากนี้ {title}?]]></phrase>
+  <phrase title="you_sure_you_want_to_delete_this_update_from_x" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณแน่ใจหรือว่าต้องการลบการปรับปรุงจากนี้ {title}?]]></phrase>
+  <phrase title="you_sure_you_want_to_delete_version_x_of_y" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณแน่ใจหรือว่าต้องการลบเวอร์ชั่น {version} ของ {title}?]]></phrase>
+  <phrase title="you_sure_you_want_to_delete_x_resources" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณแน่ใจหรือว่าต้องการลบ {count} Resources(er)?]]></phrase>
+  <phrase title="you_sure_you_want_to_like_this_resource_update" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณแน่ใจหรือไม่ชอบการปรับปรุงทรัพยากรนี้?]]></phrase>
+  <phrase title="you_sure_you_want_to_move_x_resources" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณแน่ใจหรือว่าต้องการที่จะย้าย {count} Resources(er)?]]></phrase>
+  <phrase title="you_sure_you_want_to_prefix_x_resources" addon_id="XenResource" version_id="1010570" version_string="1.1.5"><![CDATA[คุณแน่ใจหรือว่าต้องการที่จะใช้คำนำหน้าเพื่อ {count} Resources?]]></phrase>
+  <phrase title="you_sure_you_want_to_reassign_x_resources" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณแน่ใจหรือว่าต้องการที่จะแจกจ่าย {count} Resources(er)?]]></phrase>
+  <phrase title="you_sure_you_want_to_unlike_this_resource_update" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณแน่ใจหรือว่าคุณไม่ชอบการปรับปรุง Resources นี้?]]></phrase>
+  <phrase title="you_sure_you_want_to_update_notification_settings_for_all_resource_cats" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณแน่ใจหรือว่าต้องการที่จะปรับปรุงการตั้งค่าอีเมลแจ้งเตือนสำหรับทุกประเภท Resources?]]></phrase>
+  <phrase title="you_sure_you_want_to_update_notification_settings_for_all_resources" addon_id="XenResource" version_id="1010370" version_string="1.1.3"><![CDATA[คุณแน่ใจหรือว่าต้องการที่จะปรับปรุงการตั้งค่าอีเมลแจ้งเตือนสำหรับ Resources ทั้งหมดหรือไม่]]></phrase>
+  <phrase title="you_sure_you_want_to_update_notification_settings_for_one_resource" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[คุณแน่ใจว่าคุณต้องการที่จะปรับปรุงการตั้งค่าการแจ้งเตือนอีเมลของคุณสำหรับ Resources?]]></phrase>
+  <phrase title="you_sure_you_want_to_update_notification_settings_for_one_resource_category" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[คุณแน่ใจว่าคุณต้องการที่จะปรับปรุงการแจ้งเตือนอีเมลของคุณสำหรับประเภท Resources?]]></phrase>
+  <phrase title="your_resources" addon_id="XenResource" version_id="1010270" version_string="1.1.2"><![CDATA[Resources ของคุณ]]></phrase>
+  <phrase title="your_review_must_be_at_least_x_characters" addon_id="XenResource" version_id="1010470" version_string="1.1.4"><![CDATA[ความเห็นของคุณต้องมีอย่างน้อย {min} ตัวอักษร]]></phrase>
 </language>
