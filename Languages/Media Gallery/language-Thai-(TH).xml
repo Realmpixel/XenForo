@@ -547,7 +547,7 @@
   <phrase title="xengallery_edit_uploaded_media_details" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[แก้ไขข้อมูลรายละเอียดเกี่ยวกับสื่อ]]></phrase>
   <phrase title="xengallery_edit_x_albums" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[แก้ไข {count} อัลบั้ม]]></phrase>
   <phrase title="xengallery_edit_x_media_items" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[แก้ไข {count} องค์ประกอบสื่อ]]></phrase>
-  <phrase title="xengallery_embed_a_video" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Video ฝัง]]></phrase>
+  <phrase title="xengallery_embed_a_video" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[เล่นวิดีโอ]]></phrase>
   <phrase title="xengallery_embed_video_explain" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[การฝังวิดีโอแทรกการอ้างอิงถึงหนึ่งในเว็บไซต์สื่อสนับสนุน]]></phrase>
   <phrase title="xengallery_embedded_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[Video ฝัง]]></phrase>
   <phrase title="xengallery_enable_sub_category_notifications" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[เปิดใช้งานการแจ้งเตือนหมวดหมู่ย่อย]]></phrase>
