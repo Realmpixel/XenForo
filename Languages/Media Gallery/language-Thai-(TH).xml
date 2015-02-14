@@ -1001,7 +1001,7 @@
   <phrase title="xengallery_tags_you_in_a_comment" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[กล่าวถึงคุณในความคิดเห็น]]></phrase>
   <phrase title="xengallery_thank_you_for_reporting_this_comment" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[ขอบคุณสำหรับข้อมูล]]></phrase>
   <phrase title="xengallery_thank_you_for_reporting_this_media" addon_id="XenGallery" version_id="2000671" version_string="2.0.6"><![CDATA[ขอบคุณสำหรับข้อมูล]]></phrase>
-  <phrase title="xengallery_there_are_no_comments" addon_id="XenGallery" version_id="8" version_string="0.0.8"><![CDATA[Пока нет ни одного комментария.]]></phrase>
+  <phrase title="xengallery_there_are_no_comments" addon_id="XenGallery" version_id="8" version_string="0.0.8"><![CDATA[ไม่มีความเห็น]]></phrase>
   <phrase title="xengallery_this_album_has_no_media" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[ในอัลบั้มชุดนี้ตอนนี้มีสื่อไม่มี]]></phrase>
   <phrase title="xengallery_this_user_has_not_added_any_media" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[ผู้ใช้คนนี้ยังไม่ได้เพิ่มสื่อใด ๆ]]></phrase>
   <phrase title="xengallery_this_user_has_not_created_albums" addon_id="XenGallery" version_id="2010270" version_string="2.1.2"><![CDATA[ผู้ใช้คนนี้ยังไม่ได้สร้างอัลบั้มใด ๆ]]></phrase>
